@@ -1,11 +1,18 @@
-# Community council meeting
+**Date:** 
+31/08/2020, 5pm UK time
 
-Date: 17/08/2020
+**Attendees:** 
+Franz Kiraly (FK)
+Tony Bagnall (TB)
+Markus Löning (ML)
 
-Time: 5pm UK time
+**Location:** 
+Community-council voice channel on [sktime’s discord server](https://discord.gg/gqSab2K)
 
-Location: sktime's discord server, community-council voice channel (https://discord.gg/rBGdaKh)
 
 ## Agenda
+
+
+
 
 
