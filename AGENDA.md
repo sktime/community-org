@@ -11,8 +11,3 @@ Community-council voice channel on [sktime’s discord server](https://discord.g
 
 
 ## Agenda
-
-
-
-
-
