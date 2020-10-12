@@ -10,7 +10,7 @@ Community-council voice channel on sktime’s [discord](https://discord.gg/gqSab
 
 ## Agenda
 
-1. review of minutes 21/09/2020
+1. review of [minutes of 21/09/2020](https://github.com/sktime/community-council/blob/master/previous_meetings/20200921-meeting-hcrystalball.md)
 
 2. Wellcome Foundation - message from Bilal Mateen
 
