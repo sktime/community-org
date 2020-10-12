@@ -14,7 +14,7 @@ Community-council voice channel on sktime’s [discord](https://discord.gg/gqSab
 
 2. Wellcome Foundation - message from Bilal Mateen
 
-3. discussion of interfaces with other packages ß updates, status; follow-up required?
+3. discussion of interfaces with other packages: updates, status; follow-up required?
 3a. HCrytalball
 3b. stumpy
 
