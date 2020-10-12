@@ -1,5 +1,8 @@
 # sktime CC meeting agenda
 
+[![hackmd-github-sync-badge](https://hackmd.io/Zvav3YisSeWPNy49-qgD5Q/badge)](https://hackmd.io/Zvav3YisSeWPNy49-qgD5Q)
+
+
 **Date:** 
 02/11/2020, 5pm UK time
 
