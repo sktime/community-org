@@ -4,7 +4,7 @@
 
 
 **Date:** 
-02/11/2020, 5pm UK time
+16/11/2020, 5pm UK time
 
 **Attendees:** 
 
