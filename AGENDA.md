@@ -12,4 +12,4 @@
 Community-council voice channel on sktime’s [discord](https://discord.gg/gqSab2K) server
 
 ## Agenda
-1. Review of last meeting's minutes
+1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
