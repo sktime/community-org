@@ -4,7 +4,7 @@
 
 
 **Date:** 
-05/03/2021, 5pm UK time
+29/03/2021, 5pm UK time
 
 **Attendees:** 
 
@@ -13,4 +13,4 @@
 
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
-
+2. Workshop planning for GSoC/Outreachy contribution period
