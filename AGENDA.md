@@ -13,4 +13,3 @@
 
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
-2. Workshop planning for GSoC/Outreachy contribution period
