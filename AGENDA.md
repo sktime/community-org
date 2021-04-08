@@ -13,3 +13,5 @@
 
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
+1. GSoC/Outreachy planning
+1. Summer event planning 
