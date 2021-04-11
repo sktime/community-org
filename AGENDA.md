@@ -14,4 +14,7 @@
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
 1. GSoC/Outreachy planning
+    * Indicate which proposals we want to mentor on the GSoC platform
+    * Plan interviews
+    * Plan mentor teams/availability
 1. Summer event planning 
