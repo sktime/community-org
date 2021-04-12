@@ -18,3 +18,4 @@
     * Plan interviews
     * Plan mentor teams/availability
 1. Summer event planning 
+1. cross-community meeting planning (CAMUS, geomstats)
