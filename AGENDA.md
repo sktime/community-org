@@ -14,7 +14,7 @@
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
 
-1. revies of actions
+1. review of actions
 
 1. summer programme schedule and communications
 
