@@ -12,7 +12,7 @@ New joiners and community members are invited to register on Eventbrite. Summer 
 * Working Python installation (for beginners, we recommend the Anaconda distribution)
 * Working sktime installation
 * Set up development environment described in  [CONTRIBUTING.md](https://github.com/alan-turing-institute/sktime/blob/main/CONTRIBUTING.md)
-* Zoom for talks
+* Zoom
 * Discord for sprints and workshops
 
 ## Agenda
