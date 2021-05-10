@@ -13,7 +13,7 @@ New joiners and community members are invited to register on Eventbrite. Summer 
 |Day | Time | Description|
 |---|---|---|
 | 1 |  | Welcome |
-| 1 |  | Introduction to sktime (usage, communtity structure) |
+| 1 |  | Introduction to sktime (usage, community structure) |
 | 1 |  | User testing |
 | 2 |  | API design: concepts, principles and patterns |
 | 2 |  | Software dev best practices (git/GitHub, IDE, code quality, docs) |
