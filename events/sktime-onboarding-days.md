@@ -3,6 +3,8 @@ Data scientists with an interest in contributing to sktime are invited to join t
 
 [Register now!](https://www.eventbrite.com/e/sktime-onboarding-days-tickets-154010598847)
 
+The Zoom link to join the event will be emailed to you shortly before the event starts.
+
 ## Summary
 This event provides entry level introductions, tutorials, org onboarding, and opportunities to socialize with new and veteran community members.
 
