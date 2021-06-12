@@ -2,7 +2,7 @@
 Community members of all experience levels are invited to the sktime dev days, taking place in the week of June 21 – 25.
 
 ## Summary
-Activities include introductory tutorials to the toolbox and software development, user testing sessions, documentation sprints, group coding, roadmap workshops, and fun socials. New community members are encouraged to also join the sktime onboarding days. Registration is required. 
+Activities include introductory tutorials to the toolbox and software development, user testing sessions, documentation sprints, group coding, roadmap workshops, and fun socials. 
 
 [Register now!](https://twitter.com/sktime_toolbox/status/1403751557951328258)
 
