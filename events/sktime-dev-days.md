@@ -4,10 +4,13 @@ Community members of all experience levels are invited to the sktime dev days, t
 ## Summary
 Activities include introductory tutorials to the toolbox and software development, user testing sessions, documentation sprints, group coding, roadmap workshops, and fun socials. New community members are encouraged to also join the sktime onboarding days. Registration is required. 
 
-[Register now!]()
+[Register now!](https://twitter.com/sktime_toolbox/status/1403751557951328258)
 
 ## Call for sktime community presentations
 If you would like to present your work with sktime on Friday, please chat to us on [Gitter](https://gitter.im/sktime/community) or [GitHub](https://github.com/alan-turing-institute/sktime/discussions/919). 
+
+## Want to discuss a particular topic? 
+[Join the discussion on GitHub](https://github.com/alan-turing-institute/sktime/discussions/919)!
 
 ## Agenda - core hours (2 - 5pm UTC)
 The "core" event slots are 2-5pm which should be convenient for all time zones to join. 
