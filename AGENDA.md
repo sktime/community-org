@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-31/05/2021, 5pm UK time
+14/06/2021, 5pm UK time
 
 **Attendees:** 
 
@@ -12,7 +12,10 @@
 
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings) and review of actions
-
+2. JMLR software paper
+3. Funding model
+4. Interns
+5. Code sprint
 
 ## Notes
 
