@@ -9,6 +9,10 @@ Activities include introductory tutorials to the toolbox and software developmen
 ## Call for sktime community presentations
 If you would like to present your work with sktime on Friday, please chat to us on [Gitter](https://gitter.im/sktime/community) or [GitHub](https://github.com/alan-turing-institute/sktime/discussions/919). 
 
+| Presenter | Title | Description |
+|---|---|---|
+| Max Czapanskiy | Time series classification for animal behavior analysis | 
+
 ## Want to discuss a particular topic? 
 [Join the discussion on GitHub](https://github.com/alan-turing-institute/sktime/discussions/919)!
 
