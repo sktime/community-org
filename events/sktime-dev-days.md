@@ -6,8 +6,10 @@ Activities include introductory tutorials to the toolbox and software developmen
 
 [Register now!](https://twitter.com/sktime_toolbox/status/1403751557951328258)
 
-## Call for sktime community presentations
-If you would like to present your work with sktime on Friday, please chat to us on [Gitter](https://gitter.im/sktime/community) or [GitHub](https://github.com/alan-turing-institute/sktime/discussions/919). 
+## Call for community presentations
+If you would like to present your work with sktime on Friday, please add yourself to the table below by editing this document (via pull request). 
+If you are unsure about anything, please chat to us on [Gitter](https://gitter.im/sktime/community) or [GitHub](https://github.com/alan-turing-institute/sktime/discussions/919). 
+
 
 | Presenter | Title | Description |
 |---|---|---|
