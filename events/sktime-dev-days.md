@@ -49,7 +49,6 @@ During each sprint session, we will have:
 * Presentations/tutorials (if useful for work streams)
 
 ### Community roadmap planning
-
 1. Introduction 
 2. Updates from community council
 3. Future community meetings/events, outreach
