@@ -48,7 +48,7 @@ During each sprint session, we will have:
 * Break-out sessions (if applicable)
 * Presentations/tutorials (if useful for work streams)
 
-### Community roadmap planning
+### Agenda for community roadmap planning (on June 21) 
 1. Introduction 
 2. Updates from community council
 3. Future community meetings/events, outreach
