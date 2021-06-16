@@ -55,4 +55,5 @@ During each sprint session, we will have:
 4. Update the [technical roadmap](https://www.sktime.org/en/latest/roadmap.html) for next year (until mid 2022)
 5. Funding model: donations, grants, commercial activities
 6. Publication roadmap - submit paper to JMLR, keep track of papers that use sktime
-7. Any other business
+7. co-development with, or alignment with awkward-array development programme
+8. Any other business
