@@ -43,6 +43,9 @@ Developer streams are invited to keep working together beyond core hourse (e.g.,
 | Thu | 17:00 | Wrap-up |
 | Fri | 14:00 | Welcome |
 | Fri | 14:10 | Community presentations | Sprint report-outs, intern mid-term presentation, presentations from community members
+| Fri | 14:30 | Community presentations | pycaret time series module presentation
+
+
 
 During each sprint session, we will have: 
 * Break-out sessions (if applicable)
