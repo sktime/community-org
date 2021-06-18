@@ -28,6 +28,7 @@ Templates
 ---------
 
 We have templates for discussions:
+
 * [sprint planning](https://github.com/sktime/community-council/blob/main/templates/sprint-planning.md)
 
 Contact
