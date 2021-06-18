@@ -9,9 +9,9 @@ Activities include introductory tutorials to the toolbox and software developmen
 If you would like to present your work with sktime on Friday, please add yourself to the table below by editing this document (via pull request). 
 If you are unsure about anything, please chat to us on [Gitter](https://gitter.im/sktime/community) or [GitHub](https://github.com/alan-turing-institute/sktime/discussions/919). 
 
-| Presenter | Title | Time | Company | 
+| Presenter | Title | Time (UTC) | Company | 
 |---|---|---|---|
-| Martin Walter | Time series forecasting with sktime in the automotive industry | Thursday | Mercedes-Benz AG |
+| Martin Walter | Time series forecasting with sktime in the automotive industry | Thursday (16:30) | Mercedes-Benz AG |
 | Max Czapanskiy | Time series classification for animal behavior analysis | Friday | |
 | Nikhil Gupta | pycaret time series module presentation | Friday (14:30) | |
 
