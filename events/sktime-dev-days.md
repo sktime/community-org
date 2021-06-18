@@ -41,10 +41,10 @@ Developer streams are invited to keep working together beyond core hourse (e.g.,
 | Mon | 16:00 | Community roadmap planning | See agenda below |
 | Tue | 14:00 | Welcome |
 | Tue | 14:10 | Workstream planning & stand-ups | 
-| Tue | 14:45 | Sprint (tracks on docs, modules, etc) |
+| Tue | 14:45 | Sprint | Tracks on docs, modules, etc. |
 | Wed | 14:00 | Welcome |
 | Wed | 14:10 | Stand-up |
-| Wed | 14:30 | Sprint  | Tracks on docs, modules, etc.
+| Wed | 14:30 | Sprint  | 
 | Wed | 16:45 | Wrap-up |
 | Thu | 14:00 | Welcome |
 | Thu | 14:10 | Stand-up |
