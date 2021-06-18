@@ -19,6 +19,15 @@ If you are unsure about anything, please chat to us on [Gitter](https://gitter.i
 ## Want to discuss a particular topic? 
 [Join the discussion on GitHub](https://github.com/alan-turing-institute/sktime/discussions/919)!
 
+Current list of potential workstreams:
+* Documentation & tutorials
+* Forecasting - refactor, multivariate
+* sktime-dl - deep learning interfaces, for TSC and forecasting
+* TSC & TSR refactor
+* Time series clustering (new module)
+* Time series transformers, sktime-neuro
+* Annotation (new module)
+
 ## Agenda - core hours (2-5pm UTC)
 The core event hours are 2-5pm (UTC). 
 
@@ -59,13 +68,3 @@ During each sprint session, we will have:
 6. Publication roadmap - submit paper to JMLR, keep track of papers that use sktime
 7. Co-development with, or alignment with awkward-array development programme
 8. Any other business
-
-## Potential workstreams
-For previous discussions, see [#919](https://github.com/alan-turing-institute/sktime/discussions/919).
-* Documentation & tutorials
-* Forecasting - refactor, multivariate
-* sktime-dl - deep learning interfaces, for TSC and forecasting
-* TSC & TSR refactor
-* Time series clustering (new module)
-* Time series transformers, sktime-neuro
-* Annotation (new module)
