@@ -47,10 +47,10 @@ Developer streams are invited to keep working together beyond core hourse (e.g.,
 | Wed | 14:30 | Sprint  | Tracks on docs, modules, etc.
 | Wed | 16:45 | Wrap-up |
 | Thu | 14:00 | Welcome |
-| Thu | 14:05 | Community presentations | "Time series forecasting with sktime in the automotive industry" |
-| Thu | 14:30 | Stand-up |
-| Thu | 14:45 | Sprint |
-| Thu | 17:30 | Wrap-up |
+| Thu | 14:10 | Stand-up |
+| Thu | 14:30 | Sprint |
+| Thu | 16:00 | Wrap-up |
+| Thu | 16:30 | Community presentations | "Time series forecasting with sktime in the automotive industry" |
 | Fri | 14:00 | Welcome |
 | Fri | 14:10 | Community presentations | Sprint report-outs, intern mid-term presentation, presentations from community members
 
