@@ -27,7 +27,7 @@ Developer streams are invited to keep working together beyond core hourse (e.g.,
 |Day | Time (UTC) | Description | Details
 |---|---|---|---|
 | Mon | 14:00 | Welcome |
-| Mon | 14:10 | Topics for workstreams and break-outs (plenary) | Overview of topics from [previous discussions](https://github.com/alan-turing-institute/sktime/discussions/919) |
+| Mon | 14:10 | Topics for workstreams and break-outs (plenary) | For an overview of workstreams, see list below |
 | Mon | 14:30 | Break-out sessions | Identify list of topics or issues to work on |
 | Mon | 15:30 | Break-out sessions report-out |
 | Mon | 16:00 | Community roadmap planning | See agenda below |
@@ -50,12 +50,22 @@ During each sprint session, we will have:
 * Break-out sessions (if applicable)
 * Presentations/tutorials (if useful for work streams)
 
-### Agenda for community roadmap planning (on June 21) 
+## Agenda for community roadmap planning (on June 21) 
 1. Introduction 
 2. Updates from community council
 3. Future community meetings/events, outreach
 4. Update the [technical roadmap](https://www.sktime.org/en/latest/roadmap.html) for next year (until mid 2022)
 5. Funding model: donations, grants, commercial activities
 6. Publication roadmap - submit paper to JMLR, keep track of papers that use sktime
-7. co-development with, or alignment with awkward-array development programme
+7. Co-development with, or alignment with awkward-array development programme
 8. Any other business
+
+## Potential workstreams
+For previous discussions, see [#919](https://github.com/alan-turing-institute/sktime/discussions/919).
+* Documentation & tutorials
+* Forecasting - refactor, multivariate
+* sktime-dl - deep learning interfaces, for TSC and forecasting
+* TSC & TSR refactor
+* Time series clustering (new module)
+* Time series transformers, sktime-neuro
+* Annotation (new module)
