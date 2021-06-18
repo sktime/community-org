@@ -24,6 +24,12 @@ We hold regular online meetings that the full community is welcome to attend.
 * If you want to add an agenda item to the meeting, `update <https://github.com/sktime/community-council/edit/master/AGENDA.md>`__ the agenda (this will create a PR) and make sure you attend the meeting.
 * All meetings are logged and available in the `previous_meetings <https://github.com/sktime/community-council/tree/master/previous_meetings>`__ folder.
 
+Templates
+---------
+
+We have templates for discussions:
+* [sprint planning](https://github.com/sktime/community-council/blob/main/templates/sprint-planning.md)
+
 Contact
 -------
 * You can chat to us on `Gitter <https://gitter.im/sktime/community>`__ or `Discord <https://discord.com/invite/gqSab2K>`__. 
