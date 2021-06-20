@@ -11,7 +11,7 @@ If you are unsure about anything, please chat to us on [Gitter](https://gitter.i
 
 | Presenter | Title | Time (UTC) | Company | 
 |---|---|---|---|
-| Martin Walter | Time series forecasting with sktime in the automotive industry | Thursday (16:30) | Mercedes-Benz AG |
+| [Martin Walter](https://www.linkedin.com/in/aiwalter/) | Time series forecasting with sktime in the automotive industry | Thursday (16:30) | Mercedes-Benz AG |
 | Max Czapanskiy | Time series classification for animal behavior analysis | Friday | |
 | [Nikhil Gupta](https://www.linkedin.com/in/guptanick/) | pycaret time series module presentation | Friday (14:30) | |
 | Svea Marie Meyer| GSoC midterm presentation: EEG classification with sktime| Friday | |
