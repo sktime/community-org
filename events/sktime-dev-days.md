@@ -32,7 +32,7 @@ Current list of potential workstreams:
 ## Agenda - core hours (2-5pm UTC)
 The core event hours are 2-5pm (UTC). 
 
-Developer streams are invited to keep working together beyond core hourse (e.g., before 2pm or after 5pm UTC), depending on time zones and availability. This can be done by joining the stream's discord channel and/or arranging additional joint working hours per stream.
+Developer streams are invited to keep working together beyond core hourse (e.g., before 2pm or after 5pm UTC), depending on time zones and availability. This can be done by joining the stream's slack channel and/or arranging additional joint working hours per stream.
 
 |Day | Time (UTC) | Description | Details
 |---|---|---|---|
