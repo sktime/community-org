@@ -55,7 +55,9 @@ Developer streams are invited to keep working together beyond core hourse (e.g.,
 | Thu | 16:00 | Wrap-up |
 | Thu | 16:30 | Community presentations | "Time series forecasting with sktime in the automotive industry" |
 | Fri | 14:00 | Welcome |
-| Fri | 14:10 | Community presentations | Sprint report-outs, intern mid-term presentation, presentations from community members
+| Fri | 14:10 | Community presentations | Sprint report-outs, intern mid-term presentation, presentations from community members |
+| Fri | 16:00 | Community roadmap planning | Update the [technical roadmap](https://www.sktime.org/en/latest/roadmap.html) for next year (until mid 2022) |
+
 
 During each sprint session, we will have: 
 * Break-out sessions (if applicable)
@@ -65,8 +67,6 @@ During each sprint session, we will have:
 1. Introduction 
 2. Updates from community council
 3. Future community meetings/events, outreach
-4. Update the [technical roadmap](https://www.sktime.org/en/latest/roadmap.html) for next year (until mid 2022)
-5. Funding model: donations, grants, commercial activities
-6. Publication roadmap - submit paper to JMLR, keep track of papers that use sktime
-7. Co-development with, or alignment with awkward-array development programme
-8. Any other business
+4. Funding model: donations, grants, commercial activities
+5. Publication roadmap - submit paper to JMLR, keep track of papers that use sktime
+6. Any other business
