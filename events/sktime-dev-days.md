@@ -16,6 +16,7 @@ If you are unsure about anything, please chat to us on [Gitter](https://gitter.i
 | [Nikhil Gupta](https://www.linkedin.com/in/guptanick/) | pycaret time series module presentation | Friday (14:30) | |
 | Svea Marie Meyer| GSoC midterm presentation: EEG classification with sktime| Friday | |
 | Guzal Bulatova | Time series transformations for forecasting with Theta method | Friday | |
+| Taiwo Owoseni | STL Forecaster| Friday| |
 
 
 ## Want to discuss a particular topic? 
