@@ -11,12 +11,12 @@ If you are unsure about anything, please chat to us on [Gitter](https://gitter.i
 
 | Presenter | Title | Time (UTC) | Company | 
 |---|---|---|---|
-| [Martin Walter](https://www.linkedin.com/in/aiwalter/) | Time series forecasting with sktime in the automotive industry | Friday (16:00) | Mercedes-Benz AG |
-| Max Czapanskiy | Time series classification for animal behavior analysis | Friday | |
 | [Nikhil Gupta](https://www.linkedin.com/in/guptanick/) | pycaret time series module presentation | Friday (14:30) | |
+| Max Czapanskiy | Time series classification for animal behavior analysis | Friday | |
 | Svea Marie Meyer| GSoC midterm presentation: EEG classification with sktime| Friday | |
 | Guzal Bulatova | Time series transformations for forecasting with Theta method | Friday | |
-| Taiwo Owoseni | STL Forecaster| Friday| |
+| Taiwo Owoseni | Refactoring the forecaster interface and extension guidelines | Friday| |
+| [Martin Walter](https://www.linkedin.com/in/aiwalter/) | Time series forecasting with sktime in the automotive industry | Friday (16:00) | Mercedes-Benz AG |
 
 
 ## Want to discuss a particular topic? 
