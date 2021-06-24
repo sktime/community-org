@@ -13,7 +13,7 @@ If you are unsure about anything, please chat to us on [Gitter](https://gitter.i
 |---|---|---|---|
 | [Nikhil Gupta](https://www.linkedin.com/in/guptanick/) | pycaret time series module presentation | Friday (14:30) | pycaret |
 | Max Czapanskiy | Time series classification for animal behavior analysis | Friday | Stanford University |
-| Svea Marie Meyer| GSoC midterm presentation: EEG classification with sktime| Friday | TU Munich / Google Summer of Code |
+| Svea Marie Meyer| GSoC midterm presentation: EEG classification with sktime| Friday | TU Munich / GSoC |
 | Guzal Bulatova | Time series transformations for forecasting with Theta method | Friday | Outreachy scholarship |
 | Taiwo Owoseni | Refactoring the forecaster interface and extension guidelines | Friday| Outreachy scholarship |
 | [Martin Walter](https://www.linkedin.com/in/aiwalter/) | Time series forecasting with sktime in the automotive industry | Friday (16:00) | Mercedes-Benz AG |
