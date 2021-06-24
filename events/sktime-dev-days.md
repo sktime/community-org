@@ -11,7 +11,7 @@ If you are unsure about anything, please chat to us on [Gitter](https://gitter.i
 
 | Presenter | Title | Time (UTC) | Company | 
 |---|---|---|---|
-| [Martin Walter](https://www.linkedin.com/in/aiwalter/) | Time series forecasting with sktime in the automotive industry | Thursday (16:30) | Mercedes-Benz AG |
+| [Martin Walter](https://www.linkedin.com/in/aiwalter/) | Time series forecasting with sktime in the automotive industry | Friday (16:00) | Mercedes-Benz AG |
 | Max Czapanskiy | Time series classification for animal behavior analysis | Friday | |
 | [Nikhil Gupta](https://www.linkedin.com/in/guptanick/) | pycaret time series module presentation | Friday (14:30) | |
 | Svea Marie Meyer| GSoC midterm presentation: EEG classification with sktime| Friday | |
@@ -54,10 +54,9 @@ Developer streams are invited to keep working together beyond core hourse (e.g.,
 | Thu | 14:10 | Stand-up |
 | Thu | 14:30 | Sprint |
 | Thu | 16:00 | Wrap-up |
-| Thu | 16:30 | Community presentations | "Time series forecasting with sktime in the automotive industry" |
 | Fri | 14:00 | Welcome |
 | Fri | 14:10 | Community presentations | Sprint report-outs, intern mid-term presentation, presentations from community members |
-| Fri | 16:00 | Community roadmap planning | Update the [technical roadmap](https://www.sktime.org/en/latest/roadmap.html) for next year (until mid 2022) |
+| Fri | 16:30 | Community roadmap planning | Update the [technical roadmap](https://www.sktime.org/en/latest/roadmap.html) for next year (until mid 2022) |
 
 
 During each sprint session, we will have: 
