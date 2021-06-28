@@ -12,10 +12,7 @@
 
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings) and review of actions
-2. JMLR software paper
-3. Funding model
-4. Interns
-5. Code sprint
-
+2. dev days future dates 
+3. Funding model update from UEA
 ## Notes
 
