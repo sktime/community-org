@@ -16,6 +16,8 @@
 3. dev days future dates 
 4. FK: proposed [changes for governance, decision making](https://github.com/alan-turing-institute/sktime/pull/1110)
 5. TB: Funding model update from UEA
-6. tslearn and pycaret collaboration
+6. TB: JMLR software paper
+7. TB: Date for next release
+8. tslearn and pycaret collaboration
 ## Notes
 
