@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-05/07/2021, 5pm UK time
+12/07/2021, 5:30pm UK time
 
 **Attendees:** 
 
@@ -12,12 +12,14 @@
 
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings) and review of actions
-2. update from community team
-3. dev days future dates 
-4. FK: proposed [changes for governance, decision making](https://github.com/alan-turing-institute/sktime/pull/1110)
-5. TB: Funding model update from UEA
-6. TB: JMLR software paper
-7. TB: Date for next release
-8. tslearn and pycaret collaboration
+    1. ML: create channel random, social
+    2. ML: update github pages
+    3. FK: update governance updates
+    4. all to read proposal and review by next week
+    5. TB: look at JMLR papers regarding authorship & general recommendations
+    6. FK to review draft release and propose/make
+3. update from community team
+4. scipy conf
+9. tslearn collaboration
 ## Notes
 
