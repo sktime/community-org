@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-12/07/2021, 5:30pm UK time
+19/07/2021, 5:30pm UK time
 
 **Attendees:** 
 
@@ -12,14 +12,14 @@
 
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings) and review of actions
-    1. ML: create channel random, social
-    2. ML: update github pages
-    3. FK: update governance updates
-    4. all to read proposal and review by next week
-    5. TB: look at JMLR papers regarding authorship & general recommendations
-    6. FK to review draft release and propose/make
-3. update from community team
-4. scipy conf
-9. tslearn collaboration
+    1. FK: update governance updates
+    2. TB: Romain re tslearn
+    3. all to read governance proposal and review by next week
+    4. TB: look at JMLR papers regarding authorship & general recommendations
+    5. FK to review draft release and propose/make - in progress together with ML
+    6. action FK: talk to Ryan, Guzal about docsprint
+2. update from community team
+3. resolution of PR issue 980
+
 ## Notes
 
