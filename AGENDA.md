@@ -20,6 +20,7 @@
     6. action FK: talk to Ryan, Guzal about docsprint
 2. update from community team
 3. resolution of PR issue 980
+4. UCL/ARC discussions
 
 ## Notes
 
