@@ -3,7 +3,7 @@
 
 Community members of all experience levels are invited to the sktime doc sprint, taking place in the week of August 16 - 19.
 
-## Agenda 
+## Tentative agenda 
 The core event hours are 2-5pm (UTC). 
 
 People are invited to keep working together outside core hours, depending on time zones and availability, by joining the Discord channel.
