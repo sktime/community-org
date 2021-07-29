@@ -25,6 +25,6 @@ There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone
 | Backend | Rework documentation backend (sphinx, readthedocs) | @mloning, @RNKuhns | [#1152](https://github.com/alan-turing-institute/sktime/issues/1152) |
 | Dev setup instructions | Installation instruction, git/GitHub workflow docs | | | 
 | Docstrings | | | | 
-| User guide | | | https://github.com/alan-turing-institute/sktime/issues/361 | 
-| Developer guide | Extension templates, etc | | https://github.com/alan-turing-institute/sktime/issues/464 | 
+| User guide | | | [#361](https://github.com/alan-turing-institute/sktime/issues/361) | 
+| Developer guide | Extension templates, etc | | [#464](https://github.com/alan-turing-institute/sktime/issues/464) | 
 
