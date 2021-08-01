@@ -19,7 +19,8 @@
 3. update from community team
 4. FK: open collective: need to set goals, need to onboard core devs. see [issue for proposed goals](https://github.com/alan-turing-institute/sktime/issues/1185)
 5. FK: need "roles" document, who has which roles, on sktime repo
-6. FK: pydata global presentation
+6. FK/TB: strategy meeting or strategy workshop?
+7. FK: pydata global presentation
 
 ## Notes
 
