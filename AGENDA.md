@@ -11,16 +11,15 @@
 [Meeting link]
 
 ## Agenda
-1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings) and review of actions
-    1. FK: update governance updates
-    2. TB: Romain re tslearn
-    3. all to read governance proposal and review by next week
-    4. TB: look at JMLR papers regarding authorship & general recommendations
-    5. FK to review draft release and propose/make - in progress together with ML
-    6. action FK: talk to Ryan, Guzal about docsprint
-2. update from community team
-3. resolution of PR issue 980
-4. UCL/ARC discussions
+1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
+2. Review of actions
+    1. FK: update governance proposal; all, look at updated governance proposal
+       agreed: change lazy lazy approval to move on top of Cc agenda after 10 working days, otherwise fine
+    2. FK: contact mentoring applicants
+3. update from community team
+4. FK: open collective: need to set goals, need to onboard core devs.
+5. FK: need "roles" document, who has which roles, on sktime repo
+6. FK: pydata global presentation
 
 ## Notes
 
