@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-26/07/2021, 5:30pm UK time
+09/08/2021, 5:30pm UK time
 
 **Attendees:** 
 
