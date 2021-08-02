@@ -23,8 +23,9 @@ There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone
 | Stream | Description | Coordinators | Issues |
 |---|---|---|---|
 | Backend | Rework documentation backend (sphinx, readthedocs) | @mloning, @RNKuhns | [#1152](https://github.com/alan-turing-institute/sktime/issues/1152) |
-| Dev setup instructions | Installation instruction, git/GitHub workflow docs | | | 
+| Dev setup instructions | Installation instruction, git/GitHub workflow docs | | [#1203](https://github.com/alan-turing-institute/sktime/issues/1203) | 
 | Docstrings | | | | 
 | User guide | | | [#361](https://github.com/alan-turing-institute/sktime/issues/361) | 
+| Other content | Glossary, Get Started, etc. | | [#1204](https://github.com/alan-turing-institute/sktime/issues/1204) |  
 | Developer guide | Extension templates, etc | | [#464](https://github.com/alan-turing-institute/sktime/issues/464) | 
 
