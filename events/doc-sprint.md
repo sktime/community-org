@@ -3,6 +3,8 @@
 
 Community members of all experience levels are invited to the sktime doc sprint, taking place in the week of August 16 - 19, 2021.
 
+Please [register](https://www.eventbrite.co.uk/e/sktime-doc-sprint-tickets-164990684579)!
+
 ## Tentative agenda 
 The core event hours are 2-5pm (UTC). 
 
