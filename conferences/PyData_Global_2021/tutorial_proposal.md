@@ -2,7 +2,7 @@
 
 
 ## Short description
-Time series are ubiquitous in real-world applications, but often add considerable complications to data science workflows. In this tutorial, you’ll learn about how to apply and extend machine learning techniques to time series data.  You will learn about the different existing learning problems in the context of time series data, such as forecasting, classification/regression, transformation, annotation and clustering. Then we will do a deeper dive into composition techniques like pipelining, tuning, data transformation, backtesting and model ensembling and you will learn how to use exising packages like sklearn, statsmodels or fbprophet with sktime.
+In this tutorial, you will learn about sktime, a unified interface for machine learning with time series data. You will learn about the different existing learning problems in the context of time series data, such as forecasting, classification/regression, transformation, annotation and clustering. We will do a deeper dive into composition techniques like pipelining, tuning, data transformation, backtesting and model ensembling and you will learn how to use existing packages like sklearn, statsmodels or fbprophet with sktime.
 
 Before the tutorial, you are kindly invited to have a look into the [sktime PyData tutorial from 2020](https://www.youtube.com/watch?v=Wf2naBHRo8Q&t=1240s).
 
@@ -15,4 +15,4 @@ As introduction to this tutorial, you'll quickly recapitulate the existing learn
 
 In this tutorial, you will learn more advanced forecasting concepts like pipelining, tuning, backtesting, model selection, model ensembling and how to incorporate exogenous data into this concepts.
 
-We'll work through all of this step by step and make use of interactive Jupyter notebooks and sktime, a new scikit-learn compatible toolbox for machine learning with time series (https://github.com/alan-turing-institute/sktime).
+We'll work through all of this step by step and make use of interactive Jupyter Notebooks and sktime, a new scikit-learn compatible toolbox for machine learning with time series (https://github.com/alan-turing-institute/sktime).
