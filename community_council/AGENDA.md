@@ -3,16 +3,28 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-24/05/2021, 5pm UK time
+09/08/2021, 5:30pm UK time
 
 **Attendees:** 
+mloning
 
 **Location:** 
-[Meeting link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NmEyMTM3ZDUtNjJjNi00MzBhLWFhOTgtYWQzYjVjMDg0MzMw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25221faf88fe-a998-4c5b-93c9-210a11d9a5c2%2522%252c%2522Oid%2522%253a%252223d931bf-479e-4e7b-a270-88a94a293f44%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=ad0714a4-04b3-445d-b723-c9eccd532b9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+[Meeting link]
 
 ## Agenda
-1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings) and review of actions
-
+1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
+2. Review of actions
+    1. FK: update governance proposal; all, look at updated governance proposal
+       agreed: change lazy lazy approval to move on top of CC agenda after 10 working days, otherwise fine
+    2. FK: contact mentoring applicants
+3. update from community team
+4. ML: Daimler sponsorship
+5. FK: open collective: need to set goals, need to onboard core devs. see [issue for proposed goals](https://github.com/alan-turing-institute/sktime/issues/1185)
+6. FK: need "roles" document, who has which roles, on sktime repo
+7. FK/TB: strategy meeting or strategy workshop?
+8. proposal by FK first reading: CC groups for balancing junior/senior career, academica/industry 
+9. FK: pydata global presentation
+10. ML: proposal: new community repo
 
 ## Notes
 
