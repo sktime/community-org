@@ -12,26 +12,28 @@ People are invited to keep working together outside core hours, depending on tim
 
 | Day | Time (UTC) | Description | Notes |
 |---|---|---|---|
-| Mon | 14:00 | Welcome | [HackMD]() | 
+| Mon | 14:00 | Welcome | [HackMD] | 
 | Mon | 14:10 | Overview of topics to work on | |
 | Mon | 14:30 | Dev setup workshop | Only on Monday | 
 | Mon | 15:00 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
-| Mon | 16:45 | Closing, feedback & preview of the next day | [HackMD]() |
-| Tue | 14:00 | Welcome | [HackMD]() | 
+| Mon | 16:45 | Closing, feedback & preview of the next day | [HackMD] |
+| Tue | 14:00 | Welcome | [HackMD] | 
 | Tue | 14:10 | Overview of topics to work on | |
 | Tue | 14:30 | Overview of sktime | What is sktime? Why do we need it? | 
 | Tue | 15:00 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
-| Tue | 16:45 | Closing, feedback & preview of the next day | [HackMD]() |
-| Wed | 14:00 | Welcome | [HackMD]() | 
+| Tue | 16:45 | Closing, feedback & preview of the next day | [HackMD] |
+| Wed | 14:00 | Welcome | [HackMD] | 
 | Wed | 14:10 | Overview of topics to work on | |
 | Wed | 14:30 | Brief introduction to sktime | What is sktime? Why do we need it? | 
 | Wed | 15:00 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
-| Wed | 16:45 | Closing, feedback & preview of the next day | [HackMD]() |
-| Thu | 14:00 | Welcome | [HackMD]() | 
+| Wed | 16:45 | Closing, feedback & preview of the next day | [HackMD] |
+| Thu | 14:00 | Welcome | [HackMD] | 
 | Thu | 14:10 | Overview of topics to work on | |
 | Thu | 14:30 | Brief introduction to sktime | What is sktime? Why do we need it? | 
 | Thu | 15:00 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
-| Thu | 16:45 | Closing, feedback & preview of the next day | [HackMD]() |
+| Thu | 16:45 | Closing, feedback & preview of the next day | [HackMD] |
+
+[hackmd]: https://hackmd.io/r37qZhR_TRSWMQ72er830g
 
 ## Work streams
 There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone/6) which collects all issues for the documentation sprint.
