@@ -3,21 +3,35 @@
 
 Community members of all experience levels are invited to the sktime doc sprint, taking place in the week of August 16 - 19, 2021.
 
-Please [register](https://www.eventbrite.co.uk/e/sktime-doc-sprint-tickets-164990684579)!
+**Please [register](https://www.eventbrite.co.uk/e/sktime-doc-sprint-tickets-164990684579) and join our [Discord](https://discord.com/invite/gqSab2K) server!**
 
-## Tentative agenda 
+## Schedule 
 The core event hours are 2-5pm (UTC). 
 
-People are invited to keep working together outside core hours, depending on time zones and availability, by joining the Discord channel.
+People are invited to keep working together outside core hours, depending on time zones and availability, by joining the [Discord](https://discord.com/invite/gqSab2K) server.
 
-|Day | Time (UTC) | Description | Details
+| Day | Time (UTC) | Description | Notes |
 |---|---|---|---|
-| Mon | 14:00 | Welcome |
-| Mon | 14:10 | Introduction to sktime |  |
-| Mon | 14:30 | Dev setup workshop |  |
-| Mon | 15:00 | User testing workshop |  |
-| Mon | 16:00 | Sprint |
-
+| Mon | 14:00 | Welcome | [HackMD]() | 
+| Mon | 14:10 | Overview of topics to work on | |
+| Mon | 14:30 | Dev setup workshop | Only on Monday | 
+| Mon | 15:00 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
+| Mon | 16:45 | Closing, feedback & preview of the next day | [HackMD]() |
+| Tue | 14:00 | Welcome | [HackMD]() | 
+| Tue | 14:10 | Overview of topics to work on | |
+| Tue | 14:30 | Overview of sktime | What is sktime? Why do we need it? | 
+| Tue | 15:00 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
+| Tue | 16:45 | Closing, feedback & preview of the next day | [HackMD]() |
+| Wed | 14:00 | Welcome | [HackMD]() | 
+| Wed | 14:10 | Overview of topics to work on | |
+| Wed | 14:30 | Brief introduction to sktime | What is sktime? Why do we need it? | 
+| Wed | 15:00 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
+| Wed | 16:45 | Closing, feedback & preview of the next day | [HackMD]() |
+| Thu | 14:00 | Welcome | [HackMD]() | 
+| Thu | 14:10 | Overview of topics to work on | |
+| Thu | 14:30 | Brief introduction to sktime | What is sktime? Why do we need it? | 
+| Thu | 15:00 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
+| Thu | 16:45 | Closing, feedback & preview of the next day | [HackMD]() |
 
 ## Work streams
 There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone/6) which collects all issues for the documentation sprint.
@@ -31,3 +45,34 @@ There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone
 | User guide | | | [#361](https://github.com/alan-turing-institute/sktime/issues/361) | 
 | Developer guide | Extension templates, etc. | | [#464](https://github.com/alan-turing-institute/sktime/issues/464) | 
 | Other content | Glossary, Get Started, etc. | | [#1204](https://github.com/alan-turing-institute/sktime/issues/1204) |  
+
+## Community roles for the sprint
+
+|Day | Role | Name | 
+|---|---|---|
+| Mon | Time keeper | |
+| Mon | Help desk | |
+| Mon | Welcome | @mloning |
+| Mon | Overview of topics | @mloning | 
+| Mon | Dev setup workshop | |
+| Mon | Workshop: docstrings | @RNKuhns |
+| Mon | Workshop: tutorials | |
+| Mon | Workshop: user guide | |
+| Tue | Time keeper | |
+| Tue | Help desk | |
+| Tue | Overview of sktime | @mloning |
+| Tue | Workshop: docstrings | |
+| Tue | Workshop: tutorials | |
+| Tue | Workshop: user guide | |
+| Wed | Time keeper | |
+| Wed | Help desk | |
+| Wed | Welcome | |
+| Wed | Workshop: docstrings | |
+| Wed | Workshop: tutorials | |
+| Wed | Workshop: user guide | |
+| Thu | Time keeper | |
+| Thu | Help desk | |
+| Thu | Welcome | |
+| Thu | Workshop: docstrings | |
+| Thu | Workshop: tutorials | |
+| Thu | Workshop: user guide | |
