@@ -50,7 +50,7 @@ There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone
 
 |Day | Role | Name | 
 |---|---|---|
-| Mon | Time keeper | |
+| Mon | Time keeper | @GuzalBulatova |
 | Mon | Help desk | |
 | Mon | Welcome | @mloning |
 | Mon | Overview of topics | @mloning | 
@@ -59,15 +59,15 @@ There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone
 | Mon | Workshop: tutorials | |
 | Mon | Workshop: user guide | |
 | Mon | Closing & feedback | |
-| Tue | Time keeper | |
+| Tue | Time keeper | @GuzalBulatova |
 | Tue | Help desk | |
 | Tue | Overview of sktime | @mloning |
 | Tue | Closing & feedback | |
-| Wed | Time keeper | |
+| Wed | Time keeper | @GuzalBulatova |
 | Wed | Help desk | |
 | Wed | Welcome | |
 | Wed | Closing & feedback | |
-| Thu | Time keeper | |
+| Thu | Time keeper | @GuzalBulatova |
 | Thu | Help desk | |
 | Thu | Welcome | |
 | Thu | Closing & feedback | |
