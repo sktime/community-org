@@ -58,21 +58,17 @@ There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone
 | Mon | Workshop: docstrings | @RNKuhns |
 | Mon | Workshop: tutorials | |
 | Mon | Workshop: user guide | |
+| Mon | Closing & feedback | |
 | Tue | Time keeper | |
 | Tue | Help desk | |
 | Tue | Overview of sktime | @mloning |
-| Tue | Workshop: docstrings | |
-| Tue | Workshop: tutorials | |
-| Tue | Workshop: user guide | |
+| Tue | Closing & feedback | |
 | Wed | Time keeper | |
 | Wed | Help desk | |
 | Wed | Welcome | |
-| Wed | Workshop: docstrings | |
-| Wed | Workshop: tutorials | |
-| Wed | Workshop: user guide | |
+| Wed | Closing & feedback | |
 | Thu | Time keeper | |
 | Thu | Help desk | |
 | Thu | Welcome | |
-| Thu | Workshop: docstrings | |
-| Thu | Workshop: tutorials | |
-| Thu | Workshop: user guide | |
+| Thu | Closing & feedback | |
+
