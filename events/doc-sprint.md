@@ -45,7 +45,7 @@ There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone
 | Developer guide | Extension templates, etc. | | [#464](https://github.com/alan-turing-institute/sktime/issues/464) | 
 | Other content | Glossary, Get Started, etc. | | [#1204](https://github.com/alan-turing-institute/sktime/issues/1204) |  
 
-## Community roles for the sprint
+## Community roles
 
 |Day | Role | Name | 
 |---|---|---|
