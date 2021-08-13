@@ -1,12 +1,12 @@
 # sktime doc sprint 
 > The Great Documentation Overhaul 
 
-Community members of all experience levels are invited to the sktime doc sprint, taking place in the week of August 16 - 19, 2021.
+Community members of all experience levels are invited to the sktime doc sprint, taking place in the week of **August 16 - 19**, 2021.
 
 **Please [register](https://www.eventbrite.co.uk/e/sktime-doc-sprint-tickets-164990684579) and join our [Discord](https://discord.com/invite/gqSab2K) server!**
 
 ## Schedule 
-The core event hours are 2-5pm (UTC). 
+The core event hours are **2-5pm (UTC)**. 
 
 People are invited to keep working together outside core hours, depending on time zones and availability, by joining the [Discord](https://discord.com/invite/gqSab2K) server.
 
@@ -33,6 +33,7 @@ People are invited to keep working together outside core hours, depending on tim
 [hackmd]: https://hackmd.io/r37qZhR_TRSWMQ72er830g
 
 ## Work streams
+
 There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone/6) which collects all issues for the documentation sprint.
 
 | Stream | Description | Coordinators | Issues |
