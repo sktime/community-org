@@ -40,7 +40,7 @@ There is a [milestone](https://github.com/alan-turing-institute/sktime/milestone
 | Docstrings | Reformat docstrings to preferred format and ensure correct rendering in Sphinx docs | @RNKuhns | [#1148](https://github.com/alan-turing-institute/sktime/issues/1148) [#1245](https://github.com/alan-turing-institute/sktime/issues/1245) | 
 | Tutorials | Condense into 3-5 notebooks (tutorials) + several Python scripts (how-to guides) | @fkiraly | [#1246](https://github.com/alan-turing-institute/sktime/issues/1246) | 
 | User guide | | | [#361](https://github.com/alan-turing-institute/sktime/issues/361) | 
-| Developer guide | Extension templates, etc. | @fkiraly | [#464](https://github.com/alan-turing-institute/sktime/issues/464) [#1203](https://github.com/alan-turing-institute/sktime/issues/1203) | 
+| Developer guide | Git workflow, installation, extension templates, etc. | @fkiraly | [#464](https://github.com/alan-turing-institute/sktime/issues/464) [#1203](https://github.com/alan-turing-institute/sktime/issues/1203) | 
 | Other content | Glossary, Get Started, etc. | | [#1204](https://github.com/alan-turing-institute/sktime/issues/1204) |  
 
 ## Community roles
