@@ -15,7 +15,7 @@ People are invited to keep working together outside core hours, depending on tim
 | Mon | 14:00 | Welcome | [HackMD] | 
 | Mon | 14:10 | Overview of topics to work on | |
 | Mon | 14:30 | Dev setup workshop | Only on Monday | 
-| Mon | 15:00 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
+| Mon | 14:30 | Work streams | Parallel workshops for writing docstring, tutorials and user guide | 
 | Mon | 16:45 | Closing, feedback & preview of the next day | [HackMD] |
 | Tue | 14:00 | Welcome back | [HackMD] | 
 | Tue | 14:10 | Overview of sktime | What is sktime? Why do we need it? | 
