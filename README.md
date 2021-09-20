@@ -29,9 +29,9 @@ There are many ways to join the sktime community.
 
 We hold regular online meetings that the full community is welcome to attend. 
 
-* The date, agenda and link to join the next meeting are available in [AGENDA.md](https://github.com/sktime/community-council/blob/main/AGENDA.md).
-* If you want to add an agenda item to the meeting, [update](https://github.com/sktime/community-council/edit/main/community_council/AGENDA.md) the agenda (this will create a PR) and make sure you attend the meeting.
-* All meetings are logged and available in the [previous_meetings](https://github.com/sktime/community-council/tree/main/community_council/previous_meetings) folder.
+* The date, agenda and link to join the next meeting are available in [AGENDA.md](https://github.com/sktime/community-org/blob/main/community_council/AGENDA.md).
+* If you want to add an agenda item to the meeting, [update](https://github.com/sktime/community-org/blob/main/community_council/AGENDA.md) the agenda (this will create a PR) and make sure you attend the meeting.
+* All meetings are logged and available in the [previous_meetings](https://github.com/sktime/community-org/blob/main/community_council/AGENDA.md/previous_meetings) folder.
 
 To find out more about the work of the community council (CC), please read our [governance document](https://www.sktime.org/en/latest/governance.html).
 
