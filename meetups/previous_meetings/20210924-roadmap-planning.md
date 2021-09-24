@@ -4,7 +4,7 @@
 
 Current roadmap: https://www.sktime.org/en/latest/roadmap.html
 
-Contributors: 
+Contributors: @RNKuhns, @mloning, @fkiraly, @TonyBagnall, @GuzalBulatova, @SveaMeyer13, @Lovkush-A
 
 > Key questions to keep in mind:
 > * Who is the target audience for the roadmap? Funders, developers, maintainers of other packages, end users 
@@ -17,17 +17,72 @@ Contributors:
 > What are the project's overarching goal(s)?
 > How do we judge if we're successful in achieving our mission?
  
-sktime enables understandable and composable machine learning with time series. It provides scikit-learn compatible algorithms and model composition tools, supported by a clear taxonomy of learning tasks, with instructive documentation and a friendly community.
+sktime is an easy-to-use, flexible and modular framework for a wide range of time series machine learning tasks. It provides scikit-learn compatible algorithms and model composition tools, with the goal to make the ecosystem more interoperable as a whole. sktime is developed by a diverse community, welcoming new contributors from academia and industry through instructive documentation, mentoring and workshops.
+
+### Notes
+- "Understandable" might be misleading toward explainable ML academic field
+    - "intuitive"
+    - Expressive syntax a better descriptor?
+    - "transparent"
+    - "easy-to-use"
+- In last sentence about community, we need to think about phrasing related to governance and we vs. sktime. 
+
+What does "community-led" mean:
+* community governed
+* workshops
+* mentoring
+* community of practice, expertise ...
+* docs!
+* academia + industry 
+* open source
+* welcoming, motivated to upskill new contributors
+* replace "developed" by "driven"
+* want to emphasise 'we are' not 'sktime is'
+* want to emphasise governance, somehow.
+
+#### key themes
+* software framework
+* community practice
+* ecosystem interoperability
+
+#### measuring how we achieve our mission
+- Is there a good way to collect feedback from end-users?
+    - User testing?
+    - Surveying?
+    - number of stars/contributors/dependent projects/downloads/user issues
+
+### Action Items
+- Think about and come back with ways to measure how we achieve our mission for the next meeting
+
+## Motivation: why do we develop sktime?
+* fair evaluation and comparison of algorithms
+* quicker application development
+* have transparent, readable specification of ML applications
+* make ecosystem more interoperable and usable as a whole
+* create unified software and theory framework for multiple learning tasks in time series analysis
+  * time series tasks split up all over the place. no consistent terminology or conventions.
+* connect communities of algorithm developers, domain experts and practitioners
+* quality/reproducibility crisis in science/research/ML/data science/AI and available off-shelf methodology (algorithms)
+* new, community-driven model for full data science innovation cycle: software products, statistical methodology, software development process, deployment in industry
+    * in the past, some academic writes a paper. some industry person randomly finds it. does not properly understand it. implements it in mixed up way. becomes part of commerical product.
+    * speeding up the innovation cycle
+* alternative options for junior academics / junior data scientists
+  * more opportunities for more people.
+* make it easier to study time series analysis
 
 ## Scope of sktime
 > Review scope below
 
+features:
 * API for machine learning with time series, for the purpose of specifying, fitting, applying and validating machine learning models
+* key use cases: notebook style analytics; use as a library component
+
+specs:
 * in-memory computation of a single machine, no distributed computing 
 * medium-sized data in pandas and NumPy
 * modular, principled object-oriented API
-* implemented in Python
-* making use of interactive Python interpreter, no graphical user interface
+* a Python library
+* making use of Python interpreter, no command-line interface or graphical user interface
 
 
 ## Points of Emphasis
