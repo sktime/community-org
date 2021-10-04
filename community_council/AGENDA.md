@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-09/08/2021, 5:30pm UK time
+04/10/2021, 5:30pm UK time
 
 **Attendees:** 
 mloning
@@ -14,6 +14,7 @@ mloning
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 2. Review of actions
+3. FK: LTCC course - mentoring and onboarding
 
 ## Notes
 
