@@ -144,7 +144,7 @@ Technical specification:
 | Software engineering & dev ops | |
 | Annotation: Segmentation
 | Annotation: Change point and outlier detection
-| Annotation: Advance event modelling (predicting annotation of time point in the future) 
+| Annotation: Advance event modelling 
 | Classification, Regression, Clustering (series-samples)
 | Forecasting: univariate & multivariate
 | Forecasting: hierarchical, panel & supervised
