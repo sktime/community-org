@@ -27,7 +27,7 @@ Contributors: @mloning, @ltsaprounis
 ---
 
 ### CI/CD platforms
-free compute time on:
+Free compute time on:
 * Azure DevOps
 * Appveyor
 * GitHub Actions (direct integration with GitHub)
@@ -77,3 +77,7 @@ CD process
 * tags & releases
 
 helper script: `build_tools/make_release.py` or `make release`
+
+### Developer workflow
+* Running GitHub Actions locally: https://github.com/nektos/act
+* Running manylinux images locally: https://gist.github.com/mloning/9773af828cc654b6b690bc7dcc1013b0
