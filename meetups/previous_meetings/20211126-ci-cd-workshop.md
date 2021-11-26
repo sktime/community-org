@@ -7,10 +7,13 @@ Contributors: @mloning, @ltsaprounis
 ---
 
 ## :bulb: What do you want to learn? 
-- [name=] ...
-- [name=] ...
-
-
+- [name=fkiraly] CI/CD for sktime end-to-end, especially release related
+- [name=Svea] 
+- [name=ltsaprounis] CI but mostly CD for sktime
+- [name=kejsitake] General introduction
+- [name=Amrith] Github actions
+- [name=lmmentel] overview of the current CI/CD flows and how far from the ideal state we are?
+- [name=luca] CI/CD end-to-end
 ---
 
 ## :books: Suggested topics
@@ -26,7 +29,7 @@ Contributors: @mloning, @ltsaprounis
 
 ---
 
-### CI/CD platforms
+### :construction: CI/CD platforms
 Free compute time on:
 * Azure DevOps
 * Appveyor
@@ -38,7 +41,7 @@ Free compute time on:
 * testing compiled package rather than source code
 * setup.cfg configuration
 
-### Code quality checks: flake8, black, isort, etc.
+### :mag: Code quality checks: flake8, black, isort, etc.
 * format checks PEP8
 * auto-formatting with black
 * imports order with isort
@@ -54,7 +57,7 @@ Free compute time on:
 * pytest with doctest for docstring examples
 * ReadTheDocs
 
-### CI (continuous integration testing)
+###  CI (continuous integration testing)
 * code quality checks: pre-commit on changed files in PR
 * examples notebooks
 * unit tests on different operating systems and Python versions
@@ -63,7 +66,7 @@ Free compute time on:
 * conditionalty: unit tests only run if code quality checks pass
 * CI badges (shields.io)
 
-### CD (packaging and distribution)
+### :package: CD (packaging and distribution)
 why do we need CD?
 * not pure Python package, sktime contains some pre-compiled code (Cython)
 * some code needs to be pre-compiled
