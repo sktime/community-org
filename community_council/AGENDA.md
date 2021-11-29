@@ -3,20 +3,23 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-18/10/2021, 5:30pm UK time
+29/11/2021, 4:30pm UTC
 
 **Attendees:** 
-mloning
 
 **Location:** 
 [Meeting link]
 
 ## Agenda
-1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings) (20/09/2021)
-2. Review of actions
-3. appveyor issue, next release
-4. FK: LTCC course - mentoring and onboarding
-5. FK: modal
+1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
+2. Review of actions from Oct 18
+    * action FK: simplify roles governance document greatly
+    * action FK: post windows CI-CD as top priority in core dev channel
+    * action FK: open issue on failing appveyor
+    * action ML: reminder of release schedules, regular, in google calendar, 5 working days excluding weekends reminder no PR merges
+    * action FK: clarify mentoring timelines, process 
 
-## Notes
-
+4. appveyor issue
+5. next release, bugfixes, work items
+6. FK: project management update
+7. FK; ML input/output discussion - next steps, resolution
