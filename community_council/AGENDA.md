@@ -7,11 +7,11 @@
 
 **Attendees:** 
 
-**Location:** 
+**Location:** `sktime` discord
 [Meeting link]
 
 ## Agenda
-1. Review of [last meeting's minutes](https://github.com/sktime/community-council/tree/master/previous_meetings)
+1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 2. Review of actions from Oct 18
     * action FK: simplify roles governance document greatly
     * action FK: post windows CI-CD as top priority in core dev channel
