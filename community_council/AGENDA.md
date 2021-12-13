@@ -16,7 +16,7 @@
     * action TB: resolution mechanism for governance proposal on equal vote weighting by affiliation (industry, academia, early career)
     * action FK: open issue on failing appveyor
     * action ML: reminder of release schedules, regular, in google calendar, 5 working days excluding weekends reminder no PR merges. Claimed done in Nov 29 minutes by ML. FK: is this really done? For 0.9.0, the time ahead given was half a working day, something must have gone wrong.
-    * action FK, ML: looking for individual taking on mentoring
+    * action FK, ML: looking for individual taking on org leadership of mentoring programme
     * action ML to see whether can fix appveyor, also ping freddy who fixed it last time
     * action FK: write about appveyor priority, feature freeze
     * action ML: set up "mob programming" doing a release with core devs and interested contributors, also record it for posterity -> aim is hand-over or distribution of release responsibilities
