@@ -22,6 +22,7 @@
     * action ML: set up "mob programming" doing a release with core devs and interested contributors, also record it for posterity -> aim is hand-over or distribution of release responsibilities
     * action/agenda for February (keep until then): review in 3 months how new project management structure has worked
 
-3. FK, ML: full transparency of primary affiliations of core devs and CC members (FK: should be mandatory; ML: should not be done). How to get to resolution. Potential actions needed in follow-up of PR 1744.
-4. FK; ML input/output discussion - next steps, resolution
-5. AOB
+3. FK, TB: clarify process on confirming disengagement of core developers and rendering inactive
+4. FK, ML: full transparency of primary affiliations of core devs and CC members (FK: should be mandatory; ML: should not be done). How to get to resolution. Potential actions needed in follow-up of PR 1744.
+5. input/output discussion - next steps, resolution (TB leading process)
+6. AOB
