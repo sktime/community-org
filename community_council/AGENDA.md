@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-13/12/2021, 4:30pm UTC
+11/01/2022, 5:00pm UTC
 
 **Attendees:** 
 
@@ -12,17 +12,16 @@
 
 ## Agenda
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
-2. Review of actions from Nov 29
+2. Review of actions from Nov 29 and Dec 13
     * action TB: resolution mechanism for governance proposal on equal vote weighting by affiliation (industry, academia, early career)
-    * action FK: open issue on failing appveyor
-    * action ML: reminder of release schedules, regular, in google calendar, 5 working days excluding weekends reminder no PR merges. Claimed done in Nov 29 minutes by ML. FK: is this really done? For 0.9.0, the time ahead given was half a working day, something must have gone wrong.
-    * action FK, ML: looking for individual taking on org leadership of mentoring programme
-    * action ML to see whether can fix appveyor, also ping freddy who fixed it last time
-    * action FK: write about appveyor priority, feature freeze
-    * action ML: set up "mob programming" doing a release with core devs and interested contributors, also record it for posterity -> aim is hand-over or distribution of release responsibilities
+    * action FK: google calendar reminders of release schedules
+    * action TB: set up strategic planning meeting for mentoring and internship programme
+    * action ML: to give access to sktime youtube acct to interested core devs, share recordings on release process
     * action/agenda for February (keep until then): review in 3 months how new project management structure has worked
+    * action FK: contact GitHub on removal of PR 1744
 
-3. FK, TB: clarify process on confirming disengagement of core developers and rendering inactive
-4. FK, ML: full transparency of primary affiliations of core devs and CC members (FK: should be mandatory; ML: should not be done). How to get to resolution. Potential actions needed in follow-up of PR 1744.
-5. input/output discussion - next steps, resolution (TB leading process)
-6. AOB
+3. new CC composition; affiliated role of GB
+4. FK, GB: community team operations - merge into CC and Fri standups?
+5. open source organisations - applications
+6. FK: updates on project management
+7. AOB
