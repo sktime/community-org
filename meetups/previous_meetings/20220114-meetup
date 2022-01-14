@@ -1,0 +1,90 @@
+# Core dev meeting 2022, January 14
+
+###### tags: `sktime`
+
+**:calendar:** 2022, January 14
+
+## :wave: Attendees
+
+- [name=Franz]
+- [name=Lukasz]
+- [name=Guzal]
+- [name=Tony]
+
+
+
+## Roles
+* notetaker - Lukasz
+* moderator - Franz
+
+## :clipboard: Agenda
+
+1. minutes from Nov 26 core dev meeting
+    https://hackmd.io/orc60fg3QDGyXBUL4zIknA
+2. actions from Nov 26 core dev meeting
+    * output type vote: preference = homogeneous output type
+        * actions arising - design? items arising?
+    * UCL tutorial (Anthony)
+3. Lukasz: new CI/CD process - Lukasz to present
+    * release manager role
+    * actions arising for 0.10.0 release
+5. all CC: updates from CC
+    * new composition; Guzal's affiliate role
+    * open source org updates - numfocus, LF, GSoC
+    * Guzal: mentoring
+    * upcoming meetings with other projects
+        * Monash forecasting repository - Jan 20
+        * tslearn - Jan 17 
+5. Lukasz: segmentation? (discuss today?). Defer to next week
+6. Franz: testing framework refactor PRs overview presentation. 
+7. Tony: Notebooks and notebook restructuring. 
+8. AOB
+
+
+## :pencil: Minutes
+
+1. minutes from Nov 26 core dev meeting
+    * agreed; clarification on core dev vote on output type below.
+3. actions from Nov 26 core dev meeting
+    * output type vote: preference = homogeneous output type
+        * actions arising - design? items arising?
+    * UCL tutorial (Anthony)
+
+Tony notes that the actual core dev vote related to the target variable (y variable) and the decision was that this should be a constant type. We did not vote on constant return type for X.
+
+Franz to propsoe design for uniform output type in forecasting, in accordance with the decision; then revisit implementation items
+
+3. Lukasz: new CI/CD process - Lukasz to present
+    * release manager role
+        * shared by Lukasz & Franz (agreed/decision)
+    * actions arising for 0.10.0 release
+        * Lukasz & Franz to set up meeting w/c Jan 17 to plan 0.10.0 release & actions
+5. all CC: updates from CC
+    * new composition; Guzal's affiliate role
+    * open source org updates - numfocus, LF, GSoC
+        * decided to apply for numfocus, LF is on pause, GSoC application will happen in Feb 
+    * Guzal: mentoring
+        * GSoc application, next Monday a proposal will be presented (in the core-dev channel), open for ideas and proposals
+    * upcoming meetings with other projects
+        * Monash forecasting repository - Jan 20
+            * integrating loaders, ambition to replicate M5 (maybe M6)
+        * tslearn - Jan 17
+            * [hackmd with overview for tslearn](https://hackmd.io/qB3H8-TgRPSt8Qv8ODTQDg)
+6. Lukasz: segmentation? (discuss today?) - deferred
+    * need to make sure that Patrick attends the dev meeting
+8. Franz: testing framework refactor PRs overview presentation
+    * set up separate meeting w/c Jan 17 for walkthrough, Q&A - next Fri 5:30pm
+7. Tony: Notebooks and notebook restructuring. Defer to next meeting
+9. AOB
+    * None
+
+
+Notes
+## ✅ Actions: 
+1. Franz to propose design for fixed output type for forecasting
+2. Tony to include fixed output for regression base class
+3. GB: chase Anthony re the UCL comp sci/AI meetings
+4. FK: report back in next dev meeting on outcomes of tslearn and Monash foreceasting
+5. Lukasz & Franz to set up meeting w/c Jan 17 to plan 0.10.0 release & actions
+6. all to review CI/CD Pr and give feedback optimally by start of next week
+    * https://github.com/alan-turing-institute/sktime/pull/1620
