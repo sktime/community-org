@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-08/02/2022, 5:00pm UTC
+22/02/2022, 5:00pm UTC
 
 **Attendees:**: 
 
@@ -15,32 +15,22 @@
 
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
-2. Review of actions from Jan 25 and outstanding actions from Jan 11
+2. Review of actions from Feb 08 and other outstanding or ongoing actions
     * action FK: google calendar reminders of release schedules
         * discuss with Lukasz general schedule once 0.10.0 is out of way
-    * governance proposal on equal vote weighting by affiliationv - another round of review, GB to comment, then see whether CC can find consensus (new CC composotion)
-
-    * action FK: set up strategic planning meeting for mentoring and internship programme with GB & potential other core devs; GB formulate core dev message
-    * action MW: check with Markus to give access to sktime youtube acct to interested core devs, share recordings on release process
+    * action FK, GB: set up strategic planning meeting for mentoring and internship programme with GB & potential other core devs; 
+    * action MW: post link to private videos, check how this can be shared with core devs
+    * action FK: check with Tony, has access to readthedocs acct
+    * action FK: ask core devs for assuming treasurer role
     * action/agenda for February (keep until then): review in 3 months how new project management structure has worked
-    * action TB, respond to LF
-    * action TB to contact ML re PR 1744; FK to offer apologies
+    * agenda item in Mar: consider hard-deprecation in Mar (first CC meeting in Mar)
 
+3. pydata Berlin
 
-3. updates & discussion from outreach workstream
- * general update 
- * summer internships, proposals
- * pydata Berlin
- * mentoring
+4. FK - proposed change to review process: for core dev authored PR, if passes tests, 2 weeks without review or activity, and listed at least once in a dev meeting as "needs review", can be merged. Reason: trust core devs what they are doing; unblock crucial maintenance/framework changes that are not very exciting and hence tend to get less reviews; enable initial work on innovative "single person expertise" topics before it grows.
 
-4. budgeting, finance
+5. review how project management has worked
 
-5. readthedocs subscription, removing ads for users
-
-6. revisiting social tools:
-   * MW: teams vs discord for CC meetings?
-   * FK: deprecate gitter in favour of GitHub discussions?
-
-7. AOB
+6. AOB
 
 ## Notes
