@@ -1,0 +1,96 @@
+# Community Team Meeting #16
+
+
+**:calendar:** Feb 18, 2022
+
+### :wave: Attendees
+
+- [name=Franz]
+- [name=Guzal]
+- [name=Lovkush]
+- [name=...]
+
+
+### :pencil: Agenda
+---
+- skipped meeting on Feb 11
+1. Review of last meeting's md, review of actions
+    - [name=all] revisit LinkedIn idea in two months, at beginning of April
+    - [name=fkiraly] ask core-devs individually (regarding mentoring)
+    - [name=somebody]: write up policy for giving talks about sktime, get it approved formally.
+    - [name=fkiraly] check if Anthony has responded
+    - [name=Guzal, Franz or Martin] ask Tony about past proposals to GSoC
+    - [name=Guzal] add presentation slides to sktime Google account 
+1. **Mentoring - Agree on topics for "Ideas" document**
+2. **Tutorial at UCL**
+3. **Cut video from pyData into smaller topics / create a new one?**
+4. **AOB**
+
+
+### :construction: Reference links
+*relevant documents*
+1. [Previous meeting's HackMD](https://github.com/sktime/community-org/blob/main/community_team/previous_meetings/20220204-meeting.md)
+2. [GSoC application](https://summerofcode.withgoogle.com/organizations/sktime/programs/2022/apply)
+
+
+:mega: Discussion
+---
+
+- [ ] review of notes from last time 
+    - agreed
+- review of actions
+- [name=all] revisit LinkedIn idea in two months, at beginning of April
+    - Pinned here until April
+- [x] [name=fkiraly] ask core-devs individually (regarding mentoring)
+    - Lovkush, Lukasz, Guzal and Franz
+- [x] [name=somebody]: write up policy for giving talks about sktime, get it approved formally.
+    - Discussed at CC meeting on Feb 8th, 
+>     agreed on following policy: explicit disclaimer of affiliation 
+>     for the talk (sktime, not company); approval of Cc as a body 
+>     (quorate majority of individuals not involved in the talk)
+- [ ] [name=fkiraly] check if Anthony has responded
+    - Franz contacted people from UCL (Jamie) whom Anthony recommended, they haven't responded yet
+        - contact at UCL was Jamie Weigold
+        - action FK: follow up again since no answer
+
+- [x] [name=Guzal, Franz or Martin] ask Tony about past proposals to GSoC
+    - Writing it from scratch, @fkiraly  has most of the application ready for GSoC
+- [x] [name=Guzal] add presentation slides to sktime Google account
+    - done, [presentation is here](https://docs.google.com/presentation/d/1MiBmZ4M2nBpwWhW6SaugSxXOACDZbqih/edit?usp=sharing&ouid=107809310483043636861&rtpof=true&sd=true)
+---
+
+1. **Mentoring - Agree on topics for "Ideas" document**
+    - Deadline to apply to GSoC is Feb 21
+    - action FK: draft Ideas List
+    - action LA: review
+3. **Tutorial at UCL**
+    - no reply from UCL. will contact them again
+5. **Cut video from pyData into smaller topics / create a new one?**
+    - add link to the new video (pydata 2021)
+        - https://www.youtube.com/watch?v=ODspi8-uWgo
+        - FK: Readme still links to 2020 video, but 2021 video is more up-to-date
+        - could add link on landing page, and add a link to 2021 video description of 2020 video?
+        - good first issue?
+    - GB: currently tutorials are approx. 1.5 hours long, YT videos <= 20 mins tend to attract bigger audience;
+    - might be beneficial to split into topics (Introduction, Univariate Forecasting, etc.) and upload them into sktime's Youtube account instead of just having a playlist,
+        - FK: could add separators and segments instead?
+        - GB: different topics/titles probably more discoverable - e.g., "multivariate forecasting using sktime" instead of "sktime toolbox", [doing X] with sktime is more discoverable!
+        - FK: agree!
+    - GB: I don't want to do it personally, would like to delegate to someone with experience in video editing,
+    - Luca expressed his desire to create thumbnails a few weeks back (?)
+        - good first issue?
+    - action FK: write good first issue on video editing?
+    - action GB: prepare a notebook for first tutorial (pick a couple of forecasters to show in the video)
+
+7. **AOB**
+    * creating more video tutorials
+        * "implementing your own forecaster/estimator"
+    * next week, we should discuss pydata Berlin!
+
+:question: Next meeting & planning
+---
+### date: Feb 25, 4pm UK time
+
+### TO-DO before next meeting:
+- [name=all] ...
+- [name=...] ...
