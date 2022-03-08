@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-22/02/2022, 5:00pm UTC
+08/03/2022, 5:00pm UTC
 
 **Attendees:**: 
 
@@ -15,22 +15,43 @@
 
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
-2. Review of actions from Feb 08 and other outstanding or ongoing actions
+2. Review of actions from Feb 22 and other outstanding or ongoing actions
     * action FK: google calendar reminders of release schedules
         * discuss with Lukasz general schedule once 0.10.0 is out of way
-    * action FK, GB: set up strategic planning meeting for mentoring and internship programme with GB & potential other core devs; 
-    * action MW: post link to private videos, check how this can be shared with core devs
-    * action FK: check with Tony, has access to readthedocs acct
-    * action FK: ask core devs for assuming treasurer role
+        - not done, met with Lukasz, postponed till the next meeting
+    * action FK, GB: set up strategic planning meeting for mentoring and internship programme with GB & potential other core devs;
+        - 1st meeting held, do again with all (co-)mentors
     * action/agenda for February (keep until then): review in 3 months how new project management structure has worked
+         - will discuss today
     * agenda item in Mar: consider hard-deprecation in Mar (first CC meeting in Mar)
 
-3. pydata Berlin
+    * action MW: ask Markus about readthedocs account
+    * action all: review probabilistic functionality 
+    * action FK: write tutorial, presentation
+    * action GB: look for a ticket on proba/hierarchical modules, review PRs
+    * action GB: discuss sprint organisation on Friday
 
-4. FK - proposed change to review process: for core dev authored PR, if passes tests, 2 weeks without review or activity, and listed at least once in a dev meeting as "needs review", can be merged. Reason: trust core devs what they are doing; unblock crucial maintenance/framework changes that are not very exciting and hence tend to get less reviews; enable initial work on innovative "single person expertise" topics before it grows.
+3. sktime selected for GSoC!
+    * social media
+    * application guide needs update for 2022
+    * planning of selection process
 
-5. review how project management has worked
+4. pydata Berlin
+- admin issues:
+    - organise a sprint while pyData happens (?)
+    - content status
+    - need tutorials
 
-6. AOB
+5. budget update - TB (treasurer)
+    * monthly reports?
+    * donations
+
+6. review how project management has worked
+
+7. AOB
+
 
 ## Notes
+
+
+### list of actions arising
