@@ -71,7 +71,7 @@ Examples: statsforecast, multirocket, augmenters, hcrystalball
 Situation 2: "allied" library core devs
 
 Direct dependencies or reverse dependencies may be very active in reporting and reviewing contributions around the relevant dependency interface points. They tend to make PR or review PR with a quick turnaround, especially around the times where we or they move to a new version. Such contributors do not have the capacity to take on full responsibilities of an sktime core dev (because they are already core dev of an allied package), but they - and sktime - may benefit from them acting as core devs around the direct interface points, e.g., having the power to review and approve PR of core devs, push directly to the sktime repo, or getting notifications via CODEOWNERS.
-Examples: pycaret, statsforecast, pywatts, tsfresh (edited) 
+Examples: pycaret, statsforecast, pywatts, tsfresh
 
 for situation 1, we already have a role - algorithm maintainer. We may have to specify how this translates into access rights to the repo.
 For situation 2, we could introduce the role of allied or affiliated core dev.
