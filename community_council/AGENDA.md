@@ -63,11 +63,13 @@ I have seen situations where it would be useful to give non-core-devs elevated a
 I would propose to discuss these and introduce additional roles.
 
 Situation 1: owner of a contributed algorithm or interface
+
 In this case, our rules say the person should be notified if PR is made to their algorithm, and they should be able to review and possibly approve changes to their algorithm (in compliance with sktime rules and interface specifications). Currently, we maintain a CODEOWNERS file for this.
 However, the PR notifications and review permissions only work if the user has write access.
 Examples: statsforecast, multirocket, augmenters, hcrystalball
 
 Situation 2: "allied" library core devs
+
 Direct dependencies or reverse dependencies may be very active in reporting and reviewing contributions around the relevant dependency interface points. They tend to make PR or review PR with a quick turnaround, especially around the times where we or they move to a new version. Such contributors do not have the capacity to take on full responsibilities of an sktime core dev (because they are already core dev of an allied package), but they - and sktime - may benefit from them acting as core devs around the direct interface points, e.g., having the power to review and approve PR of core devs, push directly to the sktime repo, or getting notifications via CODEOWNERS.
 Examples: pycaret, statsforecast, pywatts, tsfresh (edited) 
 
