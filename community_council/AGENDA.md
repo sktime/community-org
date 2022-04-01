@@ -15,8 +15,6 @@
 
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
-2. Arliss Collins from NumFOCUS - welcome to NumFOCUS, Q&A, onboarding next steps
-
 3. Review of actions from Mar 22 and other outstanding or ongoing actions
    1. action TB: sktime domain emails
    2. action GB: bring up GSoC discussion on Friday
@@ -53,6 +51,10 @@
 
 
 ### list of actions arising
+
+Agenda point for Apr 19:
+
+Arliss Collins from NumFOCUS - welcome to NumFOCUS, Q&A, onboarding next steps
 
 
 ## Appendix A - special roles for contributors proposal
