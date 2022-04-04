@@ -15,7 +15,7 @@
 
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
-3. Review of actions from Mar 22 and other outstanding or ongoing actions
+2. Review of actions from Mar 22 and other outstanding or ongoing actions
    1. action TB: sktime domain emails
    2. action GB: bring up GSoC discussion on Friday
    3. action MW: set up group programming session to find out and move readthedocs. Ensure Lukasz is in the meeting.
@@ -30,22 +30,28 @@
    12. revisit numfocus in next meeting, track
 
 
-4. sktime GSoC
+3. sktime GSoC
     * social media
     * application guide needs update for 2022
     * planning of selection process
 
-5. pydata Berlin
+4. pydata Berlin
    * updates on prep from working group
 
-6. FK: proposed special roles for contributors, see appendix A
+5. FK: proposed special roles for contributors, see appendix A
 
-7. budget update - TB (treasurer)
+6. budget update - TB (treasurer)
     * monthly reports
     * donations
 
 7. AOB
 
+8. Potential Cooperation with KNIME (https://www.knime.com)
+    * KNIME is a software to create and productionize data science using one easy and intuitive environment
+    * KNIME is currently working on python M/L functionality 
+    * We might cooperate with KNIME on integrating sktime their software by adapters
+    * Advatanges: increase visibility of sktime - integrate into an easy to use GUI with a large (commercial) customer base, might be part of some hackathon? Other options (thought og pydata initially)?
+    * Disadvantages: KNIME is partially commercial, but distribtues its software open source (GNU)
 
 ## Notes
 
