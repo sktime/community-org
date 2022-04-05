@@ -46,7 +46,7 @@
 
 7. AOB
 
-8. Potential Cooperation with KNIME (https://www.knime.com)
+8. from Patrick: Potential Cooperation with KNIME (https://www.knime.com)
     * KNIME is a software to create and productionize data science using one easy and intuitive environment
     * KNIME is currently working on python M/L functionality 
     * We might cooperate with KNIME on integrating sktime their software by adapters
