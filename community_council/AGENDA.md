@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-05/04/2022, 5:00pm UTC
+19/04/2022, 5:00pm UTC
 
 **Attendees:**: 
 
@@ -15,30 +15,22 @@
 
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
-2. Review of actions from Mar 22 and other outstanding or ongoing actions
+2. Arliss Collins from NumFOCUS - welcome to NumFOCUS, Q&A, onboarding next steps
+
+
+2. Review of actions from Apr 05 and other outstanding or ongoing actions
    1. action TB: sktime domain emails
-   2. action GB: bring up GSoC discussion on Friday
-   3. action MW: set up group programming session to find out and move readthedocs. Ensure Lukasz is in the meeting.
-   4. action TB: buy readthedocs subscription (5 USD?/ month) for premium, to remove ads
-   5. action GB: look for a ticket on proba/hierarchical modules, review PRs
-   6. action FK: set up working group and meeting series to prepare for pydata Berlin 
-   7. action TB: follow up with Patrick on Berlin
-   8. Ongoing review of friday structure: review in 3 months how new project management structure has worked
-   9. action MW: turn off gitter.
-   10. action FK: google calendar reminders of release schedules
-   11. action all: review probabilistic functionality
-   12. revisit numfocus in next meeting, track
+   2. action TB to change URL for readthedocs
+   3. action TB: buy readthedocs subscription (5 USD?/ month) for premium, to remove ads
 
 
 3. sktime GSoC
-    * social media
-    * application guide needs update for 2022
-    * planning of selection process
+    * review & selection process
+    * interviews
 
-4. pydata Berlin
-   * updates on prep from working group
+4. FK: proposed special roles for contributors, see appendix A
 
-5. FK: proposed special roles for contributors, see appendix A
+5. KNIME
 
 6. budget update - TB (treasurer)
     * monthly reports
@@ -46,24 +38,11 @@
 
 7. AOB
 
-8. from Patrick: Potential Cooperation with KNIME (https://www.knime.com)
-    * KNIME is a software to create and productionize data science using one easy and intuitive environment
-    * KNIME is currently working on python M/L functionality 
-    * We might cooperate with KNIME on integrating sktime their software by adapters
-    * Advatanges: increase visibility of sktime - integrate into an easy to use GUI with a large (commercial) customer base, might be part of some hackathon? Other options (thought og pydata initially)?
-    * Disadvantages: KNIME is partially commercial, but distribtues its software open source (GNU)
-
 ## Notes
 
 
-### list of actions arising
 
-Agenda point for Apr 19:
-
-Arliss Collins from NumFOCUS - welcome to NumFOCUS, Q&A, onboarding next steps
-
-
-## Appendix A - special roles for contributors proposal
+## Appendix A - special roles for contributors proposal (from Franz)
 
 by FK for discussion, possibly decision
 
@@ -83,3 +62,14 @@ Examples: pycaret, statsforecast, pywatts, tsfresh
 
 for situation 1, we already have a role - algorithm maintainer. We may have to specify how this translates into access rights to the repo.
 For situation 2, we could introduce the role of allied or affiliated core dev.
+
+
+## Appendix B - KNIME (from Patrick)
+
+from Patrick: Potential Cooperation with KNIME (https://www.knime.com)
+    * KNIME is a software to create and productionize data science using one easy and intuitive environment
+    * KNIME is currently working on python M/L functionality 
+    * We might cooperate with KNIME on integrating sktime their software by adapters
+    * Advatanges: increase visibility of sktime - integrate into an easy to use GUI with a large (commercial) customer base, might be part of some hackathon? Other options (thought og pydata initially)?
+    * Disadvantages: KNIME is partially commercial, but distribtues its software open source (GNU)
+
