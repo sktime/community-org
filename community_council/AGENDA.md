@@ -23,14 +23,13 @@
    2. action TB to change URL for readthedocs
    3. action TB: buy readthedocs subscription (5 USD?/ month) for premium, to remove ads
 
-
 3. sktime GSoC
     * review & selection process
     * interviews
 
 4. FK: proposed special roles for contributors, see appendix A
 
-5. KNIME
+5. Patrick Schaefer: KNIME
 
 6. budget update - TB (treasurer)
     * monthly reports
