@@ -27,15 +27,19 @@
     * review & selection process
     * interviews
 
-4. FK: proposed special roles for contributors, see appendix A
+4. pydata
+    * Berlin debrief
+    * London - tutorials, talks, Apr 25 appl deadline
 
-5. Patrick Schaefer: KNIME
+5. FK: proposed special roles for contributors, see appendix A
 
-6. budget update - TB (treasurer)
+6. Patrick Schaefer: KNIME
+
+7. budget update - TB (treasurer)
     * monthly reports
     * donations
 
-7. AOB
+8. AOB
 
 ## Notes
 
@@ -71,4 +75,3 @@ from Patrick: Potential Cooperation with KNIME (https://www.knime.com)
     * We might cooperate with KNIME on integrating sktime their software by adapters
     * Advatanges: increase visibility of sktime - integrate into an easy to use GUI with a large (commercial) customer base, might be part of some hackathon? Other options (thought og pydata initially)?
     * Disadvantages: KNIME is partially commercial, but distribtues its software open source (GNU)
-
