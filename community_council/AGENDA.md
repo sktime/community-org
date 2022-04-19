@@ -31,6 +31,11 @@
     * Berlin debrief
     * London - tutorials, talks, Apr 25 appl deadline
 
+5. GB, FK: Friday schedule
+    * move by one hour, sync with EU/US summer time?
+    * reduced schedule over interview period until interns have joined?
+    * move to another day, since Middle East is on Sun-Thu working week?
+
 5. FK: proposed special roles for contributors, see appendix A
 
 6. Patrick Schaefer: KNIME
