@@ -1,14 +1,14 @@
 # sktime onboarding days
-Data scientists with an interest in contributing to sktime are invited to join the sktime onboarding days with new joiners, summer programme participants, and core contributors, on May 19 – 21.
+Data scientists with an interest in contributing to sktime are invited to join the sktime onboarding days with new joiners, summer programme participants, and core contributors, on May 25 – 27.
 
-[Register now!](https://www.eventbrite.com/e/sktime-onboarding-days-tickets-154010598847)
+[TO BE UPDATED: Register via eventbrite](https://www.eventbrite.com/e/sktime-onboarding-days-tickets-154010598847)
 
 The Zoom link to join the event will be emailed to you shortly before the event starts.
 
 ## Summary
 This event provides entry level introductions, tutorials, org onboarding, and opportunities to socialize with new and veteran community members.
 
-New joiners and community members are invited to register on Eventbrite. Summer interns (GSoC, Outreachy) are already registered. Priority on the remaining slots will be given to academic summer programme participants and sktime mentorship programme participants. 
+New joiners and community members are invited to register on Eventbrite. Summer interns (GSoC) are already registered. Priority on the remaining slots will be given to academic summer programme participants and sktime mentorship programme participants. 
 
 ## Requirements
 * Working Python installation (for beginners, we recommend the Anaconda distribution)
