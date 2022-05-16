@@ -1,4 +1,5 @@
-# sktime onboarding days
+# sktime onboarding days 2021
+
 Data scientists with an interest in contributing to sktime are invited to join the sktime onboarding days with new joiners, summer programme participants, and core contributors, on May 19 – 21.
 
 [Register now!](https://www.eventbrite.com/e/sktime-onboarding-days-tickets-154010598847)
