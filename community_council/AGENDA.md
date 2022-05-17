@@ -23,21 +23,20 @@
     * Should UEA act as a fiscal host for money from github sponsors?
     * If yes, what level of transparency in accounting github sponsors donations do the council want?
 
-4. summer programme updates
+4. UEA grant update
+    * hiring process
+    * collaborator update: meeting CHIMERA and UCL
+
+5. summer programme updates
     * onboarding days, May 23-25
     * GSoC interviews concluded, offers made
     * need to organize dev sprint - funded from UEA grant?
 
-5. update: pydata London
+6. update: pydata London
     * accepted with topic "how to build your own estimator"
     * June 17-19
     * FK and Leonidas presenting
     * organising sprint in conjunction? Meet in London?
-
-6. UEA grant - hiring
-    * timelines?
-    * job specification
-    * hiring process
 
 7. budget update - TB (treasurer)
     * monthly reports Apr (still outstanding) and May
@@ -47,7 +46,7 @@
     * FK: special roles for contributors
     * Patrick - KNIME
 
-8. AOB
+9. AOB
 
 ## Notes
 
