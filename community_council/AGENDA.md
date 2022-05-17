@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-19/04/2022, 5:00pm UTC
+17/05/2022, 5:00pm UTC
 
 **Attendees:**: 
 
@@ -15,34 +15,39 @@
 
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
-2. Arliss Collins from NumFOCUS - welcome to NumFOCUS, Q&A, onboarding next steps
-
 
 2. Review of actions from Apr 05 and other outstanding or ongoing actions
-   1. action TB: sktime domain emails
-   2. action TB to change URL for readthedocs
-   3. action TB: buy readthedocs subscription (5 USD?/ month) for premium, to remove ads
+   1. action
 
-3. sktime GSoC
-    * review & selection process
-    * interviews
+3. open discussion and potential decisions on fiscal reporting and fiscal host
+    * continuing monthly open/public fiscal reporting of income & expenditure?
+        * sktime specific assets including donations, excluding UEA grant details
+        * UEA grant is a separate discussion, no decision or discussion today
+    * move of fiscal host for donation management to UEA
 
-4. pydata
-    * Berlin debrief
-    * London - tutorials, talks, Apr 25 appl deadline
+4. summer programme updates
+    * onboarding days, May 23-25
+    * GSoC interviews concluded, offers made
+    * need to organize dev sprint - funded from UEA grant?
 
-5. GB, FK: Friday schedule
-    * move by one hour, sync with EU/US summer time?
-    * reduced schedule over interview period until interns have joined?
-    * move to another day, since Middle East is on Sun-Thu working week?
+5. update: pydata London
+    * accepted with topic "how to build your own estimator"
+    * June 17-19
+    * FK and Leonidas presenting
+    * organising sprint in conjunction? Meet in London?
 
-5. FK: proposed special roles for contributors, see appendix A
-
-6. Patrick Schaefer: KNIME
+6. UEA grant - hiring
+    * timelines?
+    * job specification
+    * hiring process
 
 7. budget update - TB (treasurer)
-    * monthly reports
+    * monthly reports Apr (still outstanding) and May
     * donations
+
+8. roll-over items:
+    * FK: special roles for contributors
+    * Patrick - KNIME
 
 8. AOB
 
