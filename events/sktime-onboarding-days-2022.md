@@ -7,7 +7,7 @@ The event will take place on the sktime discord, in the dev-sprints channel.
 ## Summary
 This event provides entry level introductions, tutorials, org onboarding, and opportunities to socialize with new and veteran community members.
 
-New joiners and community members are invited to express interest on the sktime slack, contributors channel. Summer interns (GSoC, Outreachy, sktime mentees, academic summer programme) are automatically resgistered. Remaining slots will be by invitation, with priority on active community members.
+New joiners and community members are invited to express interest on the sktime slack, contributors channel. Summer interns (GSoC, sktime mentees, academic summer programme) are automatically resgistered. Remaining slots will be by invitation, with priority on active community members.
 
 ## Requirements
 * Working Python installation (for beginners, we recommend the Anaconda distribution)
