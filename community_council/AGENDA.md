@@ -16,8 +16,17 @@
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
 
-2. Review of actions from Apr 05 and other outstanding or ongoing actions
-   1. action
+2. Review of actions from Apr 05 and other outstanding or ongoing actionsw
+    1. action TB: sktime domain emails - track
+    2. action TB to change URL for readthedocs - track
+    3. action FK: write email with list to Arliss - track response
+    4. action FK: scheduling - track
+        * bring Thu-Fri and general scheduling up in core devs, formulate vote
+        * propose updated schedule when interns have joined (dependent on topics, projects, etc) - post in core 
+    5. action TB on budget
+        * action TB: prepare monthly spreadsheet
+        * action TB: ask numfocus for advice
+
 
 3. Decision on using UEA as a fiscal host
     * Should UEA act as a fiscal host for money from github sponsors?
