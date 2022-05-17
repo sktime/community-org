@@ -24,7 +24,7 @@
     * If yes, what level of transparency in accounting github sponsors donations do the council want?
 
 4. UEA grant update
-    * hiring process
+    * hiring process: 100% PDRA post, 20% PDRA post (update on Markus)
     * collaborator update: meeting CHIMERA and UCL
 
 5. summer programme updates
