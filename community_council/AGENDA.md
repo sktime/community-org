@@ -19,11 +19,9 @@
 2. Review of actions from Apr 05 and other outstanding or ongoing actions
    1. action
 
-3. open discussion and potential decisions on fiscal reporting and fiscal host
-    * continuing monthly open/public fiscal reporting of income & expenditure?
-        * sktime specific assets including donations, excluding UEA grant details
-        * UEA grant is a separate discussion, no decision or discussion today
-    * move of fiscal host for donation management to UEA
+3. Decision on using UEA as a fiscal host
+    * Should UEA act as a fiscal host for money from github sponsors?
+    * If yes, what level of transparency in accounting github sponsors donations do the council want?
 
 4. summer programme updates
     * onboarding days, May 23-25
