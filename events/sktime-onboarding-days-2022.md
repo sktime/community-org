@@ -18,17 +18,17 @@ New joiners and community members are invited to express interest on the sktime 
 ## Agenda
 |Day | Time (UTC) | Description|
 |---|---|---|
-| Mon | 14:00 | Welcome |
-| Mon | 14:10 - 15:00 | sktime developer tutorial: git/GitHub, IDE, code quality, docs, testing, debugging |
-| Mon | 15:05 - 16:00 | Workshop: ensuring complete developer set-up, collab session |
+| Mon | 11:00 | Welcome |
+| Mon | 12:10 - 13:00 | sktime developer tutorial: git/GitHub, IDE, code quality, docs, testing, debugging |
+| Mon | 13:05 - 14:00 | Workshop: ensuring complete developer set-up, collab session |
 
 |Day | Time (UTC) | Description|
 |---|---|---|
-| Tue | 14:00 | Welcome |
-| Tue | 14:10 - 16:00 | "ideas market" - 10-20min presentations of topics (core devs, mentees, allied packages) |
+| Tue | 11:00 | Welcome |
+| Tue | 11:10 - 13:00 | "ideas market" - 10-20min presentations of topics (core devs, mentees, allied packages) |
 
 |Day | Time (UTC) | Description|
 |---|---|---|
-| Wed | 14:00 | Welcome |
-| Wed | 14:10 - 16:00 | Project workshops (mentees-mentors-developers): development of work plan, roadmap planning |
-| Wed | 16:00 - 16:20 | Presentation of work plan, feedback |
+| Wed | 11:00 | Welcome |
+| Wed | 11:10 - 13:00 | Project workshops (mentees-mentors-developers): development of work plan, roadmap planning |
+| Wed | 13:00 - 13:20 | Presentation of work plan, feedback |
