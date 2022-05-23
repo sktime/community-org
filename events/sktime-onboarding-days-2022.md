@@ -19,8 +19,8 @@ New joiners and community members are invited to express interest on the sktime 
 |Day | Time (UTC) | Description|
 |---|---|---|
 | Mon | 11:00 | Welcome |
-| Mon | 12:10 - 13:00 | sktime developer tutorial: git/GitHub, IDE, code quality, docs, testing, debugging |
-| Mon | 13:05 - 14:00 | Workshop: ensuring complete developer set-up, collab session |
+| Mon | 11:10 - 12:00 | sktime developer tutorial: git/GitHub, IDE, code quality, docs, testing, debugging |
+| Mon | 12:05 - 13:00 | Workshop: ensuring complete developer set-up, collab session |
 
 |Day | Time (UTC) | Description|
 |---|---|---|
