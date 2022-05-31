@@ -30,6 +30,7 @@
         * explore whether core devs can meet in London around pydata
 
 3. summer programme org updates
+    * minutes of org meeting: https://github.com/sktime/community-org/blob/main/community_team/previous_meetings/20220530-meeting.md
     * dev sprint and doc sprint, funding bottleneck
     * UKRI grant, funding model
     * pydata London updates
