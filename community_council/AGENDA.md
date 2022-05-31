@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-17/05/2022, 5:00pm UTC
+31/05/2022, 5:00pm UTC
 
 **Attendees:**: 
 
@@ -16,46 +16,38 @@
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
 
-2. Review of actions from Apr 05 and other outstanding or ongoing actionsw
+2. Review of actions from May 17 and other outstanding or ongoing actionsw
     1. action TB: sktime domain emails - track
     2. action TB to change URL for readthedocs - track
-    3. action FK: write email with list to Arliss - track response
+    3. action FK: write email with list to Arliss. action FK chase, write again.
     4. action FK: scheduling - track
         * bring Thu-Fri and general scheduling up in core devs, formulate vote
         * propose updated schedule when interns have joined (dependent on topics, projects, etc) - post in core 
     5. action TB on budget
-        * action TB: prepare monthly spreadsheet
-        * action TB: ask numfocus for advice
+        * action TB: prepare monthly spreadsheet, share with CC
+    6. action FK related to pydata
+        * explore whether sprint possible at pydata
+        * explore whether core devs can meet in London around pydata
 
-
-3. Decision on using UEA as a fiscal host
-    * Should UEA act as a fiscal host for money from github sponsors?
-    * If yes, what level of transparency in accounting github sponsors donations do the council want?
+3. summer programme org updates
+    * dev sprint and doc sprint, funding bottleneck
+    * UKRI grant, funding model
+    * pydata London updates
 
 4. UEA grant update
-    * hiring process: 100% PDRA post, 20% PDRA post (update on Markus)
-    * collaborator update: meeting CHIMERA and UCL
+    * discussion not completed on May 17 - no involvement of sktime CC in hiring process?
+    * Tony said he cannot attend today (May 31)
 
-5. summer programme updates
-    * onboarding days, May 23-25
-    * GSoC interviews concluded, offers made
-    * need to organize dev sprint - funded from UEA grant?
+5. budget update ???
+    * Tony not here
+    * committed to sharing spreadsheet, but not done
+    * actions?
 
-6. update: pydata London
-    * accepted with topic "how to build your own estimator"
-    * June 17-19
-    * FK and Leonidas presenting
-    * organising sprint in conjunction? Meet in London?
-
-7. budget update - TB (treasurer)
-    * monthly reports Apr (still outstanding) and May
-    * donations
-
-8. roll-over items:
+6. roll-over items, from ages ago:
     * FK: special roles for contributors
     * Patrick - KNIME
 
-9. AOB
+7. AOB
 
 ## Notes
 
