@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-31/05/2022, 5:00pm UTC
+31/05/2022, 4:00pm UTC
 
 **Attendees:**: 
 
