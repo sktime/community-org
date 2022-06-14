@@ -42,15 +42,18 @@
     * UKRI grant probably not available
     * staffing: need to encourage core devs to participate
     * programme: should reach out to communities and researchers to give talks, e.g., other numfocus packages
+    * comms: some avenues identified. Announce at pydata London. Numfocus unresponsive on comms assist. Turing unresponsive on comms assist.
     * [minutes of org meeting June 10](https://github.com/sktime/community-org/blob/main/community_team/previous_meetings/20220610-meeting.md)
 
-4. reserved business
+4. pydata London update
 
-5. roll-over items, from ages ago:
+5. reserved business
+
+6. roll-over items, from ages ago:
     * FK: special roles for contributors
     * Patrick - KNIME
 
-6. AOB
+7. AOB
 
 ## Notes
 
