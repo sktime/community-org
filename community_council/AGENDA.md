@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-31/05/2022, 4:00pm UTC
+14/06/2022, 4:00pm UTC
 
 **Attendees:**: 
 
@@ -16,39 +16,41 @@
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
 
-2. Review of actions from May 17 and other outstanding or ongoing actionsw
-    1. action TB: sktime domain emails - track
-    2. action TB to change URL for readthedocs - track
-    3. action FK: write email with list to Arliss. action FK chase, write again.
-    4. action FK: scheduling - track
+2. Review of actions from May 31 and other outstanding or ongoing actions
+    1. action: sktime domain emails - track
+        * TB no longer active - what is status and next steps?
+    3. action TB to change URL for readthedocs and MW to investigate - track
+        * action MW: we can still see ads, need to contact them to take them down. Are we paying?
+    5. action FK: write email with list to Arliss. action FK chase, write again.
+        * written, no reply or other reaction. What to do now?
+    7. action FK: scheduling - track
         * bring Thu-Fri and general scheduling up in core devs, formulate vote
         * propose updated schedule when interns have joined (dependent on topics, projects, etc) - post in core 
-    5. action TB on budget
-        * action TB: prepare monthly spreadsheet, share with CC
-    6. action FK related to pydata
+        * action on FK to pull schedule together
+    8. action TB on budget
+        * TB has dropped off, treasurer role is vacant
+        * what next? treasurer role, budget management?
+    9. action FK related to pydata
         * explore whether sprint possible at pydata
+            * catch-up with Leonidas on June 15, probably no sprint
         * explore whether core devs can meet in London around pydata
+            * no travel funds available
 
-3. summer programme org updates
-    * dev sprint and doc sprint, funding bottleneck
-    * UKRI grant, funding model
-    * pydata London updates
-    * [minutes of org meeting May 30](https://github.com/sktime/community-org/blob/main/community_team/previous_meetings/20220530-meeting.md)
+3. summer programme org updates: dev sprint
+    * UCL confirmed as venue. Turing did not react and are unresponsive
+    * funding: probably ca 5-7k available from: sktime donations (sans the industry donations that are unaccounted for); GSoC mentoring funds for mentee travel etc; FK UCL discretionary
+    * UKRI grant probably not available
+    * staffing: need to encourage core devs to participate
+    * programme: should reach out to communities and researchers to give talks, e.g., other numfocus packages
+    * [minutes of org meeting June 10](https://github.com/sktime/community-org/blob/main/community_team/previous_meetings/20220610-meeting.md)
 
-4. UEA grant update
-    * discussion not completed on May 17 - no involvement of sktime CC in hiring process?
-    * Tony said he cannot attend today (May 31)
+4. reserved business
 
-5. budget update ???
-    * Tony not here
-    * committed to sharing spreadsheet, but not done
-    * actions?
-
-6. roll-over items, from ages ago:
+5. roll-over items, from ages ago:
     * FK: special roles for contributors
     * Patrick - KNIME
 
-7. AOB
+6. AOB
 
 ## Notes
 
