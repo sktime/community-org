@@ -17,7 +17,7 @@ If you are unsure about anything, please chat to us on [Slack](https://join.slac
 
 
 ## Want to discuss a particular topic? 
-[Join the discussion on GitHub](https://github.com/alan-turing-institute/sktime/discussions/919)!
+[Join the discussion on GitHub](https://github.com/alan-turing-institute/sktime/discussions/2827)!
 
 Current list of potential workstreams:
 * documentation & tutorials
