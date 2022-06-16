@@ -27,17 +27,18 @@ Current list of potential workstreams:
 * annotation, segmentation, change points
 * pipelines - graphical, reduction
 
-## Agenda - core hours (2-5pm UTC)
-The core event hours are 2-5pm (UTC). 
+## Agenda
+
+Core event hours are 2-5pm (UTC), for aligning with the virtual dev days. 
+
+On-site attendance is possible from 8am to 5pm.
 
 Developer streams are invited to keep working together beyond core hours (e.g., before 2pm or after 5pm UTC), depending on time zones and availability.
 This can be done by joining the stream's slack channel and/or arranging additional joint working hours per stream.
 
 |Day | Time (UTC) | Description | Details
 |---|---|---|---|
-| Mon | 8:00 | Registration & breakfast (on-site) |
-| Mon | 9:00 | Welcome (on-site) |
-| Mon | 14:00 | Welcome (digital core hours) |
+| Mon | 14:00 | Welcome |
 | Mon | 14:10 | Topics for workstreams and break-outs (plenary) | For an overview of workstreams, see list above |
 | Mon | 14:30 | Break-out sessions | Identify list of topics or issues to work on |
 | Mon | 15:30 | Break-out sessions report-out |
