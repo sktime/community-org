@@ -47,24 +47,24 @@ This can be done by joining the stream's slack channel and/or arranging addition
 | Mon | 16:00 | Community roadmap planning | See agenda below |
 | Tue | 8:00 | Registration & breakfast (on-site) |
 | Tue | 9:00 | Welcome (on-site) |
-| Tue | 14:00 | Welcome  (digital core hours)|
+| Tue | 14:00 | Welcome  (core hours)|
 | Tue | 14:10 | Workstream planning & stand-ups | 
 | Tue | 14:45 | Sprint | Tracks on docs, modules, etc. |
 | Wed | 8:00 | Registration & breakfast (on-site) |
 | Wed | 9:00 | Welcome (on-site) |
-| Wed | 14:00 | Welcome (digital core hours)  |
+| Wed | 14:00 | Welcome (core hours)  |
 | Wed | 14:10 | Stand-up |
 | Wed | 14:30 | Sprint  | 
 | Wed | 16:45 | Wrap-up |
 | Thu | 8:00 | Registration & breakfast (on-site) |
 | Thu | 9:00 | Welcome (on-site) |
-| Thu | 14:00 | Welcome (digital core hours)  |
+| Thu | 14:00 | Welcome (core hours)  |
 | Thu | 14:10 | Stand-up |
 | Thu | 14:30 | Sprint |
 | Thu | 16:00 | Wrap-up |
 | Fri | 8:00 | Registration & breakfast (on-site) |
 | Fri | 9:00 | Welcome (on-site) |
-| Fri | 14:00 | Welcome (digital core hours)  |
+| Fri | 14:00 | Welcome (core hours)  |
 | Fri | 14:10 | Community presentations | Sprint report-outs, intern mid-term progress, community & open source |
 | Fri | 16:30 | Community roadmap planning | Update the [technical roadmap](https://www.sktime.org/en/latest/roadmap.html) for next year (until mid 2023) |
 
