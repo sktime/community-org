@@ -1,6 +1,8 @@
 # sktime dev days
 Community members of all experience levels are invited to the sktime dev days, taking place in the week of July 11 – 15.
 
+A physical event will be held at University College London, in conjunction with a virtual event on the sktime discord.
+
 Activities include introductory tutorials to the toolbox and software development, user testing sessions, documentation sprints, group coding, roadmap workshops, and fun socials. 
 
 [Register now!](https://twitter.com/sktime_toolbox/status/1403751557951328258)
