@@ -29,6 +29,8 @@ Current list of potential workstreams:
 
 ## Agenda
 
+Agenda is currently work in progress and tbc.
+
 Core event hours are 2-5pm (UTC), for aligning with the virtual dev days. 
 
 On-site attendance is possible from 8am to 5pm.
