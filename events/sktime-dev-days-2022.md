@@ -1,4 +1,5 @@
-# sktime dev days
+# sktime dev days 2022
+
 Community members of all experience levels are invited to the sktime dev days, taking place in the week of July 11 – 15.
 
 A physical event will be held at University College London, in conjunction with a virtual event on the sktime discord.
