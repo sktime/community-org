@@ -13,7 +13,7 @@ If you would like to present your work with sktime on Friday, please add yoursel
 If you are unsure about anything, please chat to us on [Slack](https://join.slack.com/t/sktime-group/shared_invite/zt-62i7aejn-vXc3nOWF26S_P3VXFPWisQ) or [GitHub](https://github.com/alan-turing-institute/sktime/discussions/919). 
 
 | Presenter | Title | Time (UTC) | Organisation | 
-|---|---|---|---|
+| Beth Rice | Electricity price forecasting using sktime with conformal intervals | tbc | field.energy |
 
 
 ## Want to discuss a particular topic? 
