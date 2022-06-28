@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-14/06/2022, 4:00pm UTC
+28/06/2022, 4:00pm UTC
 
 **Attendees:**: 
 
@@ -23,33 +23,22 @@
         * action MW: we can still see ads, need to contact them to take them down. Are we paying?
     5. action FK: write email with list to Arliss. action FK chase, write again.
         * written, no reply or other reaction. What to do now?
-    7. action FK: scheduling - track
-        * bring Thu-Fri and general scheduling up in core devs, formulate vote
-        * propose updated schedule when interns have joined (dependent on topics, projects, etc) - post in core 
-        * action on FK to pull schedule together
+        * FK action: contact generic point of contact
     8. action TB on budget
         * TB has dropped off, treasurer role is vacant
         * what next? treasurer role, budget management?
-    9. action FK related to pydata
-        * explore whether sprint possible at pydata
-            * catch-up with Leonidas on June 15, probably no sprint
-        * explore whether core devs can meet in London around pydata
-            * no travel funds available
 
 3. summer programme org updates: dev sprint
-    * UCL confirmed as venue. Turing did not react and are unresponsive
-    * funding: probably ca 5-7k available from: sktime donations (sans the industry donations that are unaccounted for); GSoC mentoring funds for mentee travel etc; FK UCL discretionary
-    * UKRI grant probably not available
-    * staffing: need to encourage core devs to participate
-    * programme: should reach out to communities and researchers to give talks, e.g., other numfocus packages
-    * comms: some avenues identified. Announce at pydata London. Numfocus unresponsive on comms assist. Turing unresponsive on comms assist.
-    * [minutes of org meeting June 10](https://github.com/sktime/community-org/blob/main/community_team/previous_meetings/20220610-meeting.md)
 
-4. pydata London update
+4. debrief pydata London
 
-5. reserved business
+5. FK: observer roles - put on "team" page?
 
-6. roll-over items, from ages ago:
+6. sktime engagement queries:
+    * Slai http://slai.io/
+    * geekle (pygeekle) https://geekle.us/
+
+7. roll-over items, from ages ago:
     * FK: special roles for contributors
     * Patrick - KNIME
 
