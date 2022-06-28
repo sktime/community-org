@@ -16,7 +16,7 @@
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
 
-2. Review of actions from May 31 and other outstanding or ongoing actions
+2. Review of actions from June 14 and other outstanding or ongoing actions
     1. action: sktime domain emails - track
         * TB no longer active - what is status and next steps?
     3. action TB to change URL for readthedocs and MW to investigate - track
