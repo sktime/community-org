@@ -12,6 +12,7 @@ Activities include introductory tutorials to the toolbox and software developmen
 If you would like to present your work with sktime on Friday, please add yourself to the table below by editing this document (via pull request). 
 If you are unsure about anything, please chat to us on [Slack](https://join.slack.com/t/sktime-group/shared_invite/zt-62i7aejn-vXc3nOWF26S_P3VXFPWisQ) or [GitHub](https://github.com/alan-turing-institute/sktime/discussions/919). 
 
+
 | Presenter | Title | Day | Time (UTC) | Organisation | 
 |---|---|---|---|---| 
 | Ben Fulcher | Catch-22 | Tue | 8:00 | U of Sydney |
