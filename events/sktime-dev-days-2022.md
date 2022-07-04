@@ -12,17 +12,16 @@ Activities include introductory tutorials to the toolbox and software developmen
 If you would like to present your work with sktime on Friday, please add yourself to the table below by editing this document (via pull request). 
 If you are unsure about anything, please chat to us on [Slack](https://join.slack.com/t/sktime-group/shared_invite/zt-62i7aejn-vXc3nOWF26S_P3VXFPWisQ) or [GitHub](https://github.com/alan-turing-institute/sktime/discussions/919). 
 
-
 | Presenter | Title | Day | Time (UTC) | Organisation | 
 |---|---|---|---|---| 
-| Ben Fulcher | Catch-22 | Tue | 8:00 | U of Sydney |
-| Daniel B Cerigo | Benchmarking & `kotsu` | Tue | 13:10 | | 
-| Beth Rice | Electricity price forecasting using sktime with conformal intervals | tbc (Thu or Fri) | tbc | field.energy |
-| Stanislav Khrapov | Temporal cross-validation with irregular time series data | tbc (not Fri) | tbc | tbc |
+| Ben Fulcher | Benchmarking & `catch-22` | Tue | 8:00 | U of Sydney |
+| Beth Rice | Electricity price forecasting using sktime with conformal intervals | Thu | 13:15 | field.energy |
+| Daniel B Cerigo | Benchmarking & `kotsu` | Tue | 13:15 | datavaluepeople | 
 | Katie Buchhorn | GSoC project | Fri | tbc | Queensland U of T |
+| Mariam Jabara | Remote Heart-Rate Detection Using Video Information | Fri | tbc | McGill U Montreal |
 | Mirae Parker | GSoC project | Fri | tbc | MIT |
 | Shivansh Subramanian | GSoC project | Fri | tbc | IIT Hyderabad |
-| Mariam Jabara | Remote Heart-Rate Detection Using Video Information | tbc | tbc | McGill U Montreal |
+| Stanislav Khrapov | Temporal cross-validation with irregular time series data | Wed | 13:15 | tbc |
 
 
 ## Want to discuss a particular topic? 
@@ -72,7 +71,7 @@ This can be done by joining the stream's slack channel and/or arranging addition
 | Thu | 8:00 | Welcome (on-site) |
 | Thu | 13:00 | Welcome (core hours)  |
 | Thu | 13:05 | Stand-up |
-| Wed | 13:15 | presentation: Beth Rice - electricity price forecasting w conformal intervals |
+| Thu | 13:15 | presentation: Beth Rice - electricity price forecasting w conformal intervals |
 | Thu | 13:30 | Sprint |
 | Thu | 15:50 | Wrap-up |
 | Fri | 7:30 | Registration & breakfast (on-site) |
