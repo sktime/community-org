@@ -20,6 +20,8 @@ If you are unsure about anything, please chat to us on [Slack](https://join.slac
 | Beth Rice | Electricity price forecasting using sktime with conformal intervals | tbc (Thu or Fri) | tbc | field.energy |
 | Stanislav Khrapov | Temporal cross-validation with irregular time series data | tbc (not Fri) | tbc | tbc |
 | Katie Buchhorn | GSoC project | Fri | tbc | Queensland U of T |
+| Mirae Parker | GSoC project | Fri | tbc | MIT |
+| Shivansh Subramanian | GSoC project | Fri | tbc | IIT Hyderabad |
 | Mariam Jabara | Remote Heart-Rate Detection Using Video Information | tbc | tbc | McGill U Montreal |
 
 
@@ -47,30 +49,34 @@ This can be done by joining the stream's slack channel and/or arranging addition
 
 |Day | Time (UTC) | Description | Details
 |---|---|---|---|
+| Mon | 12:30 | On-site registration |
 | Mon | 13:00 | Welcome |
-| Mon | 13:10 | Topics for workstreams and break-outs (plenary) | For an overview of workstreams, see list above |
-| Mon | 13:30 | Break-out sessions | Identify list of topics or issues to work on |
-| Mon | 15:30 | Break-out sessions report-out |
-| Mon | 16:00 | Community roadmap planning | See agenda below |
-| Tue | 8:00 | Registration & breakfast (on-site) |
-| Tue | 9:00 | Welcome (on-site) |
-| Tue | 13:00 | Welcome  (core hours)|
-| Tue | 13:10 | Workstream planning & stand-ups | 
+| Mon | 13:15 | Topics for workstreams and break-outs (plenary) | For an overview of workstreams, see list above |
+| Mon | 13:30 | Workstream planning | Identify list of topics or issues to work on |
+| Mon | 15:30 | workstream planning report-out, wrap-up |
+| Tue | 7:30 | Registration & breakfast (on-site) |
+| Tue | 7:50 | Welcome (on-site) |
+| Tue | 8:00 | Presentation: Ben Fulcher & group - catch-22 |
+| Tue | 13:00 | Welcome (core hours)|
+| Tue | 13:15 | presentation: Daniel Burkhardt Cerigo - kotsu | 
 | Tue | 13:45 | Sprint | Tracks on docs, modules, etc. |
-| Wed | 8:00 | Registration & breakfast (on-site) |
-| Wed | 9:00 | Welcome (on-site) |
+| Tue | 15:30 | Wrap-up |
+| Wed | 7:30 | Registration & breakfast (on-site) |
+| Wed | 8:00 | Welcome (on-site) |
 | Wed | 13:00 | Welcome (core hours)  |
-| Wed | 13:10 | Stand-up |
-| Wed | 13:30 | Sprint  | 
-| Wed | 15:45 | Wrap-up |
-| Thu | 8:00 | Registration & breakfast (on-site) |
-| Thu | 9:00 | Welcome (on-site) |
+| Wed | 13:05 | Stand-up |
+| Wed | 13:15 | presentation: Stanislav Khrapov - temp c-v with irregular data | 
+| Wed | 13:45 | Sprint |
+| Wed | 15:30 | Wrap-up |
+| Thu | 7:30 | Registration & breakfast (on-site) |
+| Thu | 8:00 | Welcome (on-site) |
 | Thu | 13:00 | Welcome (core hours)  |
-| Thu | 13:10 | Stand-up |
+| Thu | 13:05 | Stand-up |
+| Wed | 13:15 | presentation: Beth Rice - electricity price fcst w conf intervals | 
 | Thu | 13:30 | Sprint |
-| Thu | 15:00 | Wrap-up |
-| Fri | 8:00 | Registration & breakfast (on-site) |
-| Fri | 9:00 | Welcome (on-site) |
+| Thu | 15:50 | Wrap-up |
+| Fri | 7:30 | Registration & breakfast (on-site) |
+| Fri | 8:00 | Welcome (on-site) |
 | Fri | 13:00 | Welcome (core hours)  |
 | Fri | 13:10 | Community presentations | Sprint report-outs, intern mid-term progress, community & open source |
 | Fri | 15:30 | Community roadmap planning | Update the [technical roadmap](https://www.sktime.org/en/latest/roadmap.html) for next year (until mid 2023) |
