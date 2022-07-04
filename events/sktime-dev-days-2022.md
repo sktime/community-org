@@ -57,21 +57,21 @@ This can be done by joining the stream's slack channel and/or arranging addition
 | Tue | 7:50 | Welcome (on-site) |
 | Tue | 8:00 | Presentation: Ben Fulcher & group - catch-22 |
 | Tue | 13:00 | Welcome (core hours)|
-| Tue | 13:15 | presentation: Daniel Burkhardt Cerigo - kotsu | 
+| Tue | 13:15 | Presentation: Daniel Burkhardt Cerigo - kotsu | 
 | Tue | 13:45 | Sprint | Tracks on docs, modules, etc. |
 | Tue | 15:30 | Wrap-up |
 | Wed | 7:30 | Registration & breakfast (on-site) |
 | Wed | 8:00 | Welcome (on-site) |
 | Wed | 13:00 | Welcome (core hours)  |
 | Wed | 13:05 | Stand-up |
-| Wed | 13:15 | presentation: Stanislav Khrapov - temporal cross-validation w irregular data 
+| Wed | 13:15 | Presentation: Stanislav Khrapov - temporal cross-validation w irregular data 
 | Wed | 13:45 | Sprint |
 | Wed | 15:30 | Wrap-up |
 | Thu | 7:30 | Registration & breakfast (on-site) |
 | Thu | 8:00 | Welcome (on-site) |
 | Thu | 13:00 | Welcome (core hours)  |
 | Thu | 13:05 | Stand-up |
-| Thu | 13:15 | presentation: Beth Rice - electricity price forecasting w conformal intervals |
+| Thu | 13:15 | Presentation: Beth Rice - electricity price forecasting w conformal intervals |
 | Thu | 13:30 | Sprint |
 | Thu | 15:50 | Wrap-up |
 | Fri | 7:30 | Registration & breakfast (on-site) |
