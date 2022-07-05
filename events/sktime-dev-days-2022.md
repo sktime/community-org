@@ -19,7 +19,7 @@ If you are unsure about anything, please chat to us on [Slack](https://join.slac
 | Beth Rice | Electricity price forecasting using sktime with conformal intervals | Thu | 13:15 | field.energy |
 | Daniel B Cerigo | Benchmarking & `kotsu` | Tue | 13:15 | datavaluepeople | 
 | Katie Buchhorn | GSoC project | Fri | tbc | Queensland U of T |
-| Leonidas Tsaprounis | GSoC project | Fri | tbc | GSK |
+| Leonidas Tsaprounis | augmentation and bootstrapping for probabilistic forecasts | Fri | tbc | GSK |
 | Mariam Jabara | Remote Heart-Rate Detection Using Video Information | Fri | tbc | McGill U Montreal |
 | Mirae Parker | GSoC project | Fri | tbc | MIT |
 | Shivansh Subramanian | GSoC project | Fri | tbc | IIT Hyderabad |
