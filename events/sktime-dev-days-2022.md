@@ -45,7 +45,7 @@ Core event hours are 12noon-3pm (UTC), for aligning with the virtual dev days.
 
 On-site attendance is possible from 8am to 5pm.
 
-Developer streams are invited to keep working together beyond core hours (e.g., before 2pm or after 5pm UTC), depending on time zones and availability.
+Developer streams are invited to keep working together beyond core hours (e.g., before 1pm or after 4pm UTC), depending on time zones and availability.
 This can be done by joining the stream's slack channel and/or arranging additional joint working hours per stream.
 
 |Day | Time (UTC) | Description | Details
