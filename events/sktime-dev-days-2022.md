@@ -6,7 +6,8 @@ A physical event will be held at University College London, in conjunction with 
 
 Activities include introductory tutorials to the toolbox and software development, user testing sessions, documentation sprints, group coding, roadmap workshops, and fun socials. 
 
-[Register via eventbrite today!](https://www.eventbrite.com/e/dev-days-2022-tickets-366909134097?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb) (registration closed July 1)
+[Register via eventbrite today!](https://www.eventbrite.com/e/dev-days-2022-tickets-366909134097?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb)
+(registration closed July 1. Slots are still available, please contact core devs on slack if you would like to attend.)
 
 ## Call for community presentations
 If you would like to present your work with sktime on Friday, please add yourself to the table below by editing this document (via pull request). 
