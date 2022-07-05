@@ -19,6 +19,7 @@ If you are unsure about anything, please chat to us on [Slack](https://join.slac
 | Beth Rice | Electricity price forecasting using sktime with conformal intervals | Thu | 13:15 | field.energy |
 | Daniel B Cerigo | Benchmarking & `kotsu` | Tue | 13:15 | datavaluepeople | 
 | Katie Buchhorn | GSoC project | Fri | tbc | Queensland U of T |
+| Leonidas Tsaprounis | GSoC project | Fri | tbc | GSK |
 | Mariam Jabara | Remote Heart-Rate Detection Using Video Information | Fri | tbc | McGill U Montreal |
 | Mirae Parker | GSoC project | Fri | tbc | MIT |
 | Shivansh Subramanian | GSoC project | Fri | tbc | IIT Hyderabad |
@@ -50,7 +51,7 @@ This can be done by joining the stream's slack channel and/or arranging addition
 |Day | Time (UTC) | Description | Details
 |---|---|---|---|
 | Mon | 12:30 | On-site registration |
-| Mon | 13:00 | Welcome |
+| Mon | 13:00 | Welcome (on-site and virtual) |
 | Mon | 13:15 | Topics for workstreams and break-outs (plenary) | For an overview of workstreams, see list above |
 | Mon | 13:30 | Workstream planning | Identify list of topics or issues to work on |
 | Mon | 15:30 | workstream planning report-out, wrap-up |
@@ -58,8 +59,9 @@ This can be done by joining the stream's slack channel and/or arranging addition
 | Tue | 7:50 | Welcome (on-site) |
 | Tue | 8:00 | Presentation: Ben Fulcher & group - catch-22 |
 | Tue | 13:00 | Welcome (core hours)|
+| Tue | 13:15 | Presentation: Daniel Burkhardt Cerigo - kotsu |
 | Tue | 13:15 | Presentation: Daniel Burkhardt Cerigo - kotsu | 
-| Tue | 13:45 | Sprint | Tracks on docs, modules, etc. |
+| Tue | 13:45 | Sprint |
 | Tue | 15:30 | Wrap-up |
 | Wed | 7:30 | Registration & breakfast (on-site) |
 | Wed | 8:00 | Welcome (on-site) |
@@ -73,7 +75,7 @@ This can be done by joining the stream's slack channel and/or arranging addition
 | Thu | 13:00 | Welcome (core hours)  |
 | Thu | 13:05 | Stand-up |
 | Thu | 13:15 | Presentation: Beth Rice - electricity price forecasting w conformal intervals |
-| Thu | 13:30 | Sprint |
+| Thu | 13:45 | Sprint |
 | Thu | 15:50 | Wrap-up |
 | Fri | 7:30 | Registration & breakfast (on-site) |
 | Fri | 8:00 | Welcome (on-site) |
