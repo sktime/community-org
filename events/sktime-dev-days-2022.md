@@ -22,7 +22,7 @@ If you are unsure about anything, please chat to us on [Slack](https://join.slac
 | Leonidas Tsaprounis | augmentation and bootstrapping for probabilistic forecasts | Fri | tbc | GSK |
 | Mariam Jabara | Remote Heart-Rate Detection Using Video Information | Fri | tbc | McGill U Montreal |
 | Mirae Parker | GSoC project | Fri | tbc | MIT |
-| Shivansh Subramanian | GSoC project | Fri | tbc | IIT Hyderabad |
+| Shivansh Subramanian | GSoC project | Fri | tbc | IIIT Hyderabad |
 | Stanislav Khrapov | Temporal cross-validation with irregular time series data | Wed | 13:15 | tbc |
 
 
