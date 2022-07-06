@@ -23,8 +23,8 @@ If you are unsure about anything, please chat to us on [Slack](https://join.slac
 | Katie Buchhorn | GSoC project | Fri | tbc | Queensland U of T |
 | Leonidas Tsaprounis | augmentation and bootstrapping for probabilistic forecasts | Fri | tbc | GSK |
 | Mariam Jabara | Remote Heart-Rate Detection Using Video Information | Fri | tbc | McGill U Montreal |
-| Mirae Parker | GSoC project | Fri | tbc | MIT |
-| Shivansh Subramanian | GSoC project | Fri | tbc | IIIT Hyderabad |
+| Mirae Parker | GSoC project - latent state models and probabilistic interfaces | Fri | tbc | MIT |
+| Shivansh Subramanian | GSoC project - deep learning interfaces in sktime| Fri | tbc | IIIT Hyderabad |
 | Stanislav Khrapov | Temporal cross-validation with irregular time series data | Wed | 13:15 | tbc |
 
 
@@ -61,7 +61,6 @@ This can be done by joining the stream's slack channel and/or arranging addition
 | Tue | 7:50 | Welcome (on-site) |
 | Tue | 8:00 | Presentation: Ben Fulcher & group - catch-22 |
 | Tue | 13:00 | Welcome (core hours)|
-| Tue | 13:15 | Presentation: Daniel Burkhardt Cerigo - kotsu |
 | Tue | 13:15 | Presentation: Daniel Burkhardt Cerigo - kotsu | 
 | Tue | 13:45 | Sprint |
 | Tue | 15:30 | Wrap-up |
