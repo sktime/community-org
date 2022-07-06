@@ -4,6 +4,8 @@ Community members of all experience levels are invited to the sktime dev days, t
 
 A physical event will be held at University College London, in conjunction with a virtual event on the sktime discord.
 
+Venue at UCL is Charles Bell House G04, Seminar Room 2.
+
 Activities include introductory tutorials to the toolbox and software development, user testing sessions, documentation sprints, group coding, roadmap workshops, and fun socials. 
 
 [Register via eventbrite today!](https://www.eventbrite.com/e/dev-days-2022-tickets-366909134097?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb)
