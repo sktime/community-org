@@ -15,17 +15,18 @@ Activities include introductory tutorials to the toolbox and software developmen
 If you would like to present your work with sktime on Friday, please add yourself to the table below by editing this document (via pull request). 
 If you are unsure about anything, please chat to us on [Slack](https://join.slack.com/t/sktime-group/shared_invite/zt-62i7aejn-vXc3nOWF26S_P3VXFPWisQ) or [GitHub](https://github.com/alan-turing-institute/sktime/discussions/919). 
 
-| Presenter | Title | Day | Time (UTC) | Organisation      | 
-|---|---|---|---|-------------------| 
-| Ben Fulcher | Benchmarking & `catch-22` | Tue | 8:00 | U of Sydney       |
-| Beth Rice | Electricity price forecasting using sktime with conformal intervals | Thu | 13:15 | field.energy      |
-| Daniel B Cerigo | Benchmarking & `kotsu` | Tue | 13:15 | datavaluepeople   | 
+| Presenter | Title | Day | Time (UTC) | Organisation | 
+|---|---|---|---|---| 
+| Ben Fulcher | Benchmarking & `catch-22` | Tue | 8:00 | U of Sydney |
+| Beth Rice | Electricity price forecasting using sktime with conformal intervals | Thu | 13:15 | field.energy |
+| Daniel B Cerigo | Benchmarking & `kotsu` | Tue | 13:15 | datavaluepeople | 
 | Katie Buchhorn | GSoC project | Fri | tbc | Queensland U of T |
-| Leonidas Tsaprounis | augmentation and bootstrapping for probabilistic forecasts | Fri | tbc | GSK               |
+| Leonidas Tsaprounis | augmentation and bootstrapping for probabilistic forecasts | Fri | tbc | GSK |
 | Mariam Jabara | Remote Heart-Rate Detection Using Video Information | Fri | tbc | McGill U Montreal |
-| Mirae Parker | GSoC project - latent state models and probabilistic interfaces | Fri | tbc | MIT               |
-| Shivansh Subramanian | GSoC project - deep learning interfaces in sktime| Fri | tbc | IIIT Hyderabad    |
-| Stanislav Khrapov | Temporal cross-validation with irregular time series data | Wed | 13:15 | Chintai           |
+| Mirae Parker | GSoC project - latent state models and probabilistic interfaces | Fri | tbc | MIT |
+| Shivansh Subramanian | GSoC project - deep learning interfaces in sktime| Fri | tbc | IIIT Hyderabad |
+| Stanislav Khrapov | Temporal cross-validation with irregular time 
+series data | Wed | 13:15 | Chintai |
 
 
 ## Want to discuss a particular topic? 
