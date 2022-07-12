@@ -25,8 +25,7 @@ If you are unsure about anything, please chat to us on [Slack](https://join.slac
 | Mariam Jabara | Remote Heart-Rate Detection Using Video Information | Fri | tbc | McGill U Montreal |
 | Mirae Parker | GSoC project - latent state models and probabilistic interfaces | Fri | tbc | MIT |
 | Shivansh Subramanian | GSoC project - deep learning interfaces in sktime| Fri | tbc | IIIT Hyderabad |
-| Stanislav Khrapov | Temporal cross-validation with irregular time 
-series data | Wed | 13:15 | Chintai |
+| Stanislav Khrapov | Temporal cross-validation with irregular time series data | Wed | 13:15 | Chintai |
 
 
 ## Want to discuss a particular topic? 
