@@ -1,7 +1,7 @@
 # sktime dev days 2022
 
-NOTE: this event lies in the past. Registration or participation is no longer possible.
-Discussions and links to documents are in the mentioned slack channel.
+**NOTE: this event lies in the past. Registration or participation is no longer possible.
+Discussions and links to documents are in the mentioned slack channel.**
 
 Community members of all experience levels are invited to the sktime dev days, taking place in the week of July 11 – 15.
 
