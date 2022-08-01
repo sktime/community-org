@@ -18,8 +18,9 @@
    discussion points:
    * any points from NumFOCUS
    * updates on sktime
-   * co-branding
+   * co-branding, location of sktime
    * sponsored status, fiscal situation
+   * code of conduct committee
    * next steps - e.g., list sent to Arliss
 
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
@@ -36,11 +37,17 @@
         * action MW: reply to slai
         * action FK: reply to geekle
         * track answers
-    5. action FK: governance docs
+    5. action FK: governance docs on maintainership
         * proposal to clarify core dev activity/inactivity
         * proposal to clarify in maintenance docs process to contact algo authors
+    6. action GB: governance docs on reimbursement
+    7. action FK: poll on location of sktime (Turing, sktime, numfocus if option)
 
-4. dev days reimbursements
+4. dev days
+    * reimbursements
+    * participant feedback (GB)
+
+5. Code of conduct committee next steps
 
 5. doc sprint
 
