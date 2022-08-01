@@ -35,7 +35,7 @@
     4. engagement requests
         * action MW: reply to slai
         * action FK: reply to geekle
-
+        * track answers
     5. action FK: governance docs
         * proposal to clarify core dev activity/inactivity
         * proposal to clarify in maintenance docs process to contact algo authors
