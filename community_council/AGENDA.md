@@ -44,8 +44,9 @@
 
 5. doc sprint
 
-6. FK: sktime/baseobject
+6. GSoC midterm
 
+7. FK: sktime/baseobject
 
 8. AOB
 
