@@ -15,6 +15,8 @@ Minuting:
 
 ## Agenda
 
+1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
+
 2. Review of actions from last meeting and other outstanding or ongoing actions
 
     3. action GB: PR to add observers on team page
