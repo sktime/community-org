@@ -3,9 +3,9 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-27/09/2022, 4:00pm UTC
+11/10/2022, 4:00pm UTC
 
-**Attendees:**: 
+**Attendees:** 
 
 Minuting:
 
@@ -17,52 +17,21 @@ Minuting:
 
 1. Review of [last meeting's minutes](https://github.com/sktime/community-org/tree/main/community_council/previous_meetings)
 
+2. Review of actions from last meeting and other outstanding or ongoing actions
 
-    1. action MW: set up actions board on CC (kanban or variation)
-        * demo as soon as ready! (here/now?)
-        * community-org repo
+    via project board https://github.com/orgs/sktime/projects/1
 
-    1. action GB: PR to add observers on team page
-        * not done, track
+    from last time:
+     - action CC: review google form
+         - FK: we should watch out for GDPR and similar
+         - numfocus can also advise on this
+     - action CC: review poster and ads & material
+         - optimally by tomorrow? Sep 28 EoB, then Mirae can action further
 
-    2. engagement requests
-        * action FK: reply to geekle
-        * track answers
-            * not done, track
+3. standing item: fall dev sprint updates (Mirae Parker)
 
-    3. action all: review governance docs on maintainership PR
-        * proposal to clarify core dev activity/inactivity https://github.com/alan-turing-institute/sktime/pull/3154
-        * proposal to clarify in maintenance docs process to contact algo authors https://github.com/alan-turing-institute/sktime/pull/3155
-        * sktime algorithm library https://github.com/alan-turing-institute/sktime/pull/3155
-            * not done, track
+ - next sprint org meeting: discuss rules for doc sprint (e.g., awards or incentives; rewarding new contributors)
 
-    4. action FK: polls/announcements
-        * on location of sktime (Turing, sktime, numfocus if option)
-            * done, ongoing
-        * message re CoC training
-            * not done, todo (other messages, avoiding overload)
+4. collaboration case indexhub/OrcaBase (Christopher Lo)
 
-    5. action FK: track reimbursement: Katie, Mirae (to sktime)
-        * Mirae -> sktime not applied yet, action FK
-            * have receipts from Mirae, will submit to numfocus
-        * Katie -> reimbursement ongoing
-
-    6. track numfocus discussion
-        * adjusted contract
-        * sktime domain emails, redirect/hosting (MW)
-        * track, maybe follow up
-            * action FK: follow up
-
-    7. contributors page and acknowledgments
-        * action GB: explore options and make suggestion
-
-    8. action FK: re fall dev days planning, reply to numfocus events thread, introduce Mirae to numfocus support
-
-
-3. standing item: fall dev sprint updates (Mirae)
-
-
-4. AOB
-
-
-## Notes
+5. AOB
