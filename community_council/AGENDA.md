@@ -28,10 +28,14 @@ Minuting:
      - action CC: review poster and ads & material
          - optimally by tomorrow? Sep 28 EoB, then Mirae can action further
 
-3. standing item: fall dev sprint updates (Mirae Parker)
+3. updates:
+    * pydata global - notification of acceptance/rejection was Oct 4, but no email received
+    * numfocus
+
+4. standing item: fall dev sprint updates (Mirae Parker)
 
  - next sprint org meeting: discuss rules for doc sprint (e.g., awards or incentives; rewarding new contributors)
 
-4. collaboration case indexhub/OrcaBase (Christopher Lo)
+5. collaboration case indexhub/OrcaBase (Christopher Lo)
 
-5. AOB
+6. AOB
