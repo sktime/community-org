@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-11/10/2022, 4:00pm UTC
+25/10/2022, 4:00pm UTC
 
 **Attendees:** 
 
@@ -21,12 +21,6 @@ Minuting:
 
     via project board https://github.com/orgs/sktime/projects/1
 
-    from last time:
-     - action CC: review google form
-         - FK: we should watch out for GDPR and similar
-         - numfocus can also advise on this
-     - action CC: review poster and ads & material
-         - optimally by tomorrow? Sep 28 EoB, then Mirae can action further
 
 3. updates:
     * pydata global - notification of acceptance/rejection was Oct 4, but no email received
@@ -35,7 +29,9 @@ Minuting:
 4. standing item: fall dev sprint updates (Mirae Parker)
 
  - next sprint org meeting: discuss rules for doc sprint (e.g., awards or incentives; rewarding new contributors)
-
-5. collaboration case indexhub/OrcaBase (Christopher Lo)
+ - London in-person meet
 
 6. AOB
+
+
+## Notes
