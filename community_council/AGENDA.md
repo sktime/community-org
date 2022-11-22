@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ)
 
 **Date:** 
-25/10/2022, 4:00pm UTC
+22/11/2022, 5:00pm UTC
 
 **Attendees:** 
 
@@ -22,14 +22,11 @@ Minuting:
     via project board https://github.com/orgs/sktime/projects/1
 
 
-3. updates:
-    * pydata global - notification of acceptance/rejection was Oct 4, but no email received
-    * numfocus
+3. updates on pydata global
 
-4. standing item: fall dev sprint updates (Mirae Parker)
+4. FK: submit abstract to RSE23 Germany?
 
- - next sprint org meeting: discuss rules for doc sprint (e.g., awards or incentives; rewarding new contributors)
- - London in-person meet
+5. potential security incident (reserved)
 
 6. AOB
 
