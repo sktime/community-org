@@ -34,6 +34,8 @@ if not agreed: would agree to mediation?
 
 ## Appendix: FK concerns for de-escalation discussion
 
+(comment: these notes are here in public due to discussion already happening on public channels, e.g., sktime PR and issue tracker)
+
 FK main concerns:
 
 a. escalating CoC violations and near misses in the community - immediate concern!
