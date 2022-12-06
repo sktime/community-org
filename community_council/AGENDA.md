@@ -18,6 +18,7 @@ Minuting:
 1. FK: de-escalation of current situation
 
 we need to deescalate this *jointly*
+
 suggest agenda point: start by explaining concerns about current situation (MW, GB concerns?)
 
 try to focus on own perception, non-violent/non-accusatory
