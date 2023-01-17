@@ -16,7 +16,7 @@ Minuting:
 
 ## Agenda
 
-1. purpose of this meeting: operations of `sktime` in 2023, e.g.:
+1. purpose of this meeting: operations of `sktime` in 1st half of 2023, e.g.:
   * volunteering for roles - mentoring programme, GSoC 2023 application, new contributor onboarding, event org
   * high-level interest in tech roadmap topics, workstreams; workstream org
   * Friday schedule
