@@ -1,9 +1,33 @@
 # sktime community meeting agenda
 
+**Date:** 
+10/03/2023, 5:00pm UTC
+
+**Attendees:** 
+
+Minuting:
+
+**Location:** `sktime` discord
+
+[dev meet-up channel](https://discord.com/channels/723500657255907408/875422707523682335)
+
+## Agenda
+
+1. Review of agenda points
+
+2. Review of minutes 2023-02-21, 2023-02-28
+
+3. summary of governance consolidation roadmap
+
+tbd
+
+
+# sktime community meeting agenda - next admin meeting
+
 [![hackmd-github-sync-badge](https://hackmd.io/y1OcL1QMQLiZjRwVB0t0RQ/badge)](https://hackmd.io/GQJy87zYQH2wljr5pQv4Jg)
 
 **Date:** 
-31/01/2023, 5:00pm UTC
+tbd
 
 **Attendees:** 
 
