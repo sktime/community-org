@@ -17,9 +17,22 @@ Minuting:
 
 2. Review of minutes 2023-02-21, 2023-02-28
 
-3. summary of governance consolidation roadmap
+3. presentations on best current practice, feedback & options for future governance
+  * FK: summary of community Q&As
+    https://github.com/sktime/community-org/blob/main/community_council/previous_meetings/20230228-meeting.md
+    https://github.com/sktime/community-org/blob/main/community_council/previous_meetings/20230221-meeting.md
+  * Jana: overview of research on open source governance options
+  * FK: design thoughts so far https://github.com/sktime/community-org/issues/46
 
-tbd
+4. open discussion on high-level choices, tentative decisions
+  * committees and roles; decision making
+  * electorate, elections
+
+5. interim caretaker council
+
+6. announcements and admin points
+
+7. AOB
 
 
 # sktime community meeting agenda - next admin meeting
