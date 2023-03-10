@@ -18,14 +18,14 @@ Minuting:
 2. Review of minutes 2023-02-21, 2023-02-28
 
 3. presentations on best current practice, feedback & options for future governance
-  * FK: summary of community Q&As
-    [Feb 28](https://github.com/sktime/community-org/blob/main/community_council/previous_meetings/20230228-meeting.md) and [Feb 21](https://github.com/sktime/community-org/blob/main/community_council/previous_meetings/20230221-meeting.md)
-  * Jana: overview of research on open source governance options
-  * FK: design thoughts so far https://github.com/sktime/community-org/issues/46
+    * FK: summary of community Q&As
+      [Feb 28](https://github.com/sktime/community-org/blob/main/community_council/previous_meetings/20230228-meeting.md) and [Feb 21](https://github.com/sktime/community-org/blob/main/community_council/previous_meetings/20230221-meeting.md)
+    * Jana: overview of research on open source governance options
+    * FK: design thoughts so far https://github.com/sktime/community-org/issues/46
 
 4. open discussion on high-level choices, tentative decisions
-  * committees and roles; decision making
-  * electorate, elections
+    * committees and roles; decision making
+    * electorate, elections
 
 5. interim caretaker council
 
