@@ -27,7 +27,7 @@ Minuting:
     * committees and roles; decision making
     * electorate, elections
 
-5. interim caretaker council
+5. interim/transition council
 
 6. announcements and admin points
 
