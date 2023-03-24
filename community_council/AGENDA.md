@@ -31,7 +31,7 @@ Minuting:
    * urgent decision items? FK proposal: unilateral action, must report to council asap. Can result in motion to veto or penalize, CoC action. Semi-urgent: 3 working day rule, incremental vote. Possible motion to veto.
 
 6. arising from 2023-03-17 - expenditure for Sagar to attend pydata Seattle
-   * text of original proposal.
+   * text of original proposal by FK.
        * workshop accepted on skbase. FK, Ryan and tentatively Sagar Mishra (contributors to base) will travel
        * Sagar Mishra (achieveordie) needs travel funding
            * reason: contributed persistence and other base features
@@ -40,7 +40,7 @@ Minuting:
        * FK suggestion for expense - reimbursement via sktime open collective, max total of 2.500 GBP
        * FK will donate at least twice the amount to sktime from personal funds (irrespective of decision taken here)
        * usual procedure (decided to adopt for now): proposed in first council meeting (above), decision in second council meeting and async round until then; comes into effect when minutes of decision are confirmed in 3rd meeting, all meetings at least 1 calendar week apart
-       * please note conflict of interest - Sagar Mishra is a member of this council (as per point 4) and must recuse himself
+       * please note conflict of interest - Sagar Mishra is a member of this council and must recuse himself
    * decision procedure subject to agreement in 5
 
 7. admin points
