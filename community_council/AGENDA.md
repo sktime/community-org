@@ -41,7 +41,7 @@ Minuting:
        * FK will donate at least twice the amount to sktime from personal funds (irrespective of decision taken here)
        * usual procedure (decided to adopt for now): proposed in first council meeting (above), decision in second council meeting and async round until then; comes into effect when minutes of decision are confirmed in 3rd meeting, all meetings at least 1 calendar week apart
        * please note conflict of interest - Sagar Mishra is a member of this council (as per point 4) and must recuse himself
-   * decision procedure subject to agreement in 4
+   * decision procedure subject to agreement in 5
 
 7. admin points
     * `sktime` digital infrastructure access sharing
