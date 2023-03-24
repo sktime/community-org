@@ -26,7 +26,7 @@ Minuting:
    * action all: OSDC Europe contribution (consider opportunity)
       * involvement in presentation, blog post 
 
-5. procedure standing agreement - decision making incl async input. For transition period, final modus part of gove design.
+5. procedure standing agreement - decision making incl async input. For transition period, may be superseded by final gov design.
    * standard decision items? FK proposal: 5 working day rule ("async log in once a week") for input and votes, table in weekly meeting. Attendance not necessary, but description of what decision is.
    * urgent decision items? FK proposal: unilateral action, must report to council asap. Can result in motion to veto or penalize, CoC action. Semi-urgent: 3 working day rule, incremental vote. Possible motion to veto.
 
