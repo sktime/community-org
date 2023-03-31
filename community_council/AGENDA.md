@@ -60,7 +60,7 @@ Minuting:
        * FK will share current materials for review
        * need to send out communication soon, set dates
     * decisions
-        * Sagar conference travel -> will be tabled for decision in decision making process from 4 until next week
+        * Sagar conference travel -> will be tabled for decision in decision making process from 5 until next week
 
 6. JS: governance model high-level corner points
    * high-level options for foundational structure
