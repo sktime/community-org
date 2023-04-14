@@ -1,12 +1,10 @@
-# sktime community meeting agenda 2023-03-31
+# sktime community meeting agenda 2023-04-14
 
 **Date:** 
-31/03/2023, 5:00pm UTC
+14/04/2023, 5:00pm UTC
 
 **Attendees:** 
-Minuting:
 
-**Location:** `sktime` discord
 
 [dev meet-up channel](https://discord.com/channels/723500657255907408/875422707523682335)
 
@@ -15,60 +13,50 @@ Minuting:
 1. Review of agenda points
 
 2. Review of minutes
+   * 2023-03-31
    * 2023-03-24
    * 2023-03-17 after moving comments to end
+       * mloning input issue: https://github.com/sktime/community-org/issues/50 (opened on 2023-03-31)
 
-3. Review of actions arising 2023-03-24 and carried over
+3. Review of outstanding actions
    * action all: pydata London contribution (consider opportunity)
    * action all: OSDC Europe contribution (consider opportunity)
       * involvement in presentation, blog post 
-   * action taken by official comms chanel: communicate he can open an issue or make a PR where minutes are taken
-   * action FK: to move comments on ML minutes in 2023-03-17 to end
-   * action FK: propose "mechanics" for async decision making
-       * done, tabled as point 4
-   * action FK: coordinate JS & MR to contribute to message OSDC
-       * everyone to start collecting thoughts, optimally hackmd
-       * need to align on meeting sequence until Apr 15
-   * action FK: to share credentials (via LastPass, see above) but 2FA on FK's phone - each council member who wished log must contact him on login attempt to get 2FA code 
-       * not done - discussion thread went stale
-       * reason: recent LastPass security breaches! needs discussion
    * action JS: move gov points to hackMD
-   * action all: all to provide input here
-       * need for separate gove meeting? model & elections
+   * action FK: sktime.net emails
 
-3. scheduling
-   * JS, MR - meeting sequence re OSDC blog post
-   * separate gov meeting needed?
-   * sorting out IT meeting needed? async?
-   * internship selection panels
+4. scheduling
+   * internship planning
 
-4. procedure standing agreement - decision making
+5. FK: reserved item
+
+6. procedure standing agreement - decision making
 
    * async communication - how to use discord announcements
      https://github.com/sktime/community-org/issues/49
    * fast-track and urgent decision making
      https://hackmd.io/jIWGs789SluEHr3_3NVbuA
 
-5. admin points
+7. conferences
+   * FK: update Seattle
+       * Sagar cannot travel
+       * currently only one presenter -> FK
+           * better: 2 or 3
+           * how to deal with this?
+       * Jonathan can jump in
+           * travel funding? informal discussion
+   * update ODSC
+       * blog post
+       * participation
+
+8. update from governance working group
+   * summary of status
+   * summary of actions
+   * next meetings?
+
+9. admin points
     * `sktime` digital infrastructure access sharing
-       * discord moderation
-       * GitHub credentials
-       * `sktime` email credentials
-       * social media accounts
-    * summer internships
-       * collecting volunteer effort
-       * FK will share current materials for review
-       * need to send out communication soon, set dates
-    * decisions
-        * Sagar conference travel -> will be tabled for decision in decision making process from 5 until next week
+       * happening async
+       * "moderator" role
 
-6. JS: governance model high-level corner points
-   * high-level options for foundational structure
-   * membership, electoral rights
-   * technical governance and/or legal governance
-   * collecting questions and decision points
-
-7. reserved item: communication with Markus Loning on pypi
-   * schedule separate meeting for this?
-
-8. AOB
+10. AOB
