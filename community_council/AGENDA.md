@@ -26,33 +26,33 @@
 
 
 3. Review of outstanding actions
-   * action JS: move gov points to hackMD
-       * not done, track
-   * action FK: sktime.net emails
-       * not done, track
-   * action FK: share digital access
-      * action on other council members: Github invites (to others: check spam )
-          * only Jana, Marc accepted
-          * action: FK will resend invitations
-      * action on other council members: Linkedin invite (to other: require connect with FK)
-          * action all: check and track
-      * action on other council members: readthedocs (to other: account required) 
-          * action: please communicate acct names in council channel or to FK in PM
-* action FK: contact Kishan about ODSC london
-    * sent PM, no reply - track
-* action MR: to update next week if can participate in ODSC workshop
-    * ongoing, track
-* action JS: see if wikipedia expert can join, if not set up a meeting when he is available
-    * not here, probably next week then? track
-    * action FK: FK to create channels for async communication as outlined in https://github.com/sktime/community-org/issues/49
-        * question: should this go in gov documentation?
+  * action JS: move gov points to hackMD
+     * not done, track
+  * action FK: sktime.net emails
+     * not done, track
+  * action FK: share digital access
+    * action on other council members: Github invites (to others: check spam )
+        * only Jana, Marc accepted
+        * action: FK will resend invitations
+    * action on other council members: Linkedin invite (to other: require connect with FK)
+        * action all: check and track
+    * action on other council members: readthedocs (to other: account required) 
+        * action: please communicate acct names in council channel or to FK in PM
+  * action FK: contact Kishan about ODSC london
+      * sent PM, no reply - track
+  * action MR: to update next week if can participate in ODSC workshop
+      * ongoing, track
+  * action JS: see if wikipedia expert can join, if not set up a meeting when he is available
+      * not here, probably next week then? track
+      * action FK: FK to create channels for async communication as outlined in https://github.com/sktime/community-org/issues/49
+          * question: should this go in gov documentation?
 
-    * action FK: put on decision makin proposal on GitHub and treat as proposal subject to the async decision making process now adopted (start from scratch)
-    * action FK to action setup of internship application page
-    * action for next meeting on Fr, Apr 28 re gov design
-        * everyone review vision statement, decision table
-        * vision statement mostly considered
-        * decision table is still open (all have a look)
+  * action FK: put on decision makin proposal on GitHub and treat as proposal subject to the async decision making process now adopted (start from scratch)
+  * action FK to action setup of internship application page
+  * action for next meeting on Fr, Apr 28 re gov design
+      * everyone review vision statement, decision table
+      * vision statement mostly considered
+      * decision table is still open (all have a look)
 
 3. scheduling
     * gov working group
