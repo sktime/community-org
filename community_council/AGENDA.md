@@ -58,31 +58,37 @@
     * gov working group
     * Wikipedia expert presentation
 
-4. pydata Seattle debrief - FK, JB
+4. update on async communication - how to use discord announcements
+    * update on channels and use
+
+5. proposed decisions
+    * proposal by FK: fast-track and urgent decision making
+        * 1st round, for review
+    * proposal by FK: fund Sagar round trip to pydata London
+        * classification, panel, distances topic
+        * contributions here: https://github.com/sktime/sktime/issues/4517
+        * likely cost to sktime around 600-1000 GBP
+        * note CoI, Sagar being council member
+
+
+6. pydata Seattle debrief - FK, JB
     * presentation
     * numfocus, Leah Silen - Outreachy interin starting in May on gov models, to connect with Jana
 
-5. meeting with prophet - FK, JB - summary
+7. meeting with prophet - FK, JB - summary
 
-6. procedure standing agreement - decision making
-
-   * async communication - how to use discord announcements
-        * update on channels and use
-   * fast-track and urgent decision making
-        * now on GitHub
-
-7. summer internships
+8. summer internships
     * timelines
     * interviews
     * need to org onboarding days, dev sprint
 
-8. governance working group
+9. governance working group
     * vision statement
     * decision table
 
-9. conferences update
+10. conferences update
     * pydata Prague
     * pydata London
     * ODSC Europe
 
-10. AOB
+11. AOB
