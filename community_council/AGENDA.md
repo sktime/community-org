@@ -1,7 +1,7 @@
-# sktime community meeting agenda 2023-04-28
+# sktime community meeting agenda 2023-05-05
 
 **Date:** 
-28/04/2023, 5:00pm UTC
+05/05/2023, 5:00pm UTC
 
 **Attendees:**
 
