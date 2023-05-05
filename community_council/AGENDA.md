@@ -83,8 +83,10 @@
     * need to org onboarding days, dev sprint
 
 9. governance working group
+    * document review
     * vision statement
     * decision table
+    * next steps
 
 10. conferences update
     * pydata Prague
