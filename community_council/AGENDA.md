@@ -10,6 +10,9 @@
 
 Moderator:
 
+[dev meet-up channel](https://discord.com/channels/723500657255907408/875422707523682335)
+
+[link to minutes on hackmd](https://hackmd.io/GQJy87zYQH2wljr5pQv4Jg)
 
 ## Agenda
 
