@@ -1,73 +1,69 @@
 
-# sktime community meeting notes 2023-05-12
+# sktime community meeting agenda 2023-05-19
 
 **Date:** 
-12/05/2023, 5:00pm UTC
+19/05/2023, 5:00pm UTC
 
 **Attendees:**
 
-**Minuting:** 
+**Minuting:**
 
-[dev meet-up channel](https://discord.com/channels/723500657255907408/875422707523682335)
+Moderator:
 
-[link to minutes on hackmd](https://hackmd.io/GQJy87zYQH2wljr5pQv4Jg)
 
 ## Agenda
 
 1. Review of agenda points
 
 2. Review of minutes
-   * 2023-05-05
+   * 2023-05-12
 
 3. Review of outstanding actions
    * action FK: share digital access
-      * action on other council members: Github invites (to others: check spam )
       * action FK: add MR to readthedocs account
-
-    * Action JS: set up google meet with Wikipedia expert
+      * Update: GitHub teams - KR has still not accepted but on it currently -> checking back next week
     * action FK: update doc on gov & decision making to include new discord channels
-    * action for next meeting
-        * everyone review vision statement, decision table
-        * vision statement mostly considered
-            * Update from some council members
-        * decision table is still open (all have a look)
     * actions re summer internships
-        * FK: add advert for summer internships on readthedocs and github
-        * FK, KR, MR: paper advertisement on unis?
-        * FK: reach out to pycaret to boost as they have nice following in linkedin
+        * FK: panelist pack, confirm mentors
+        * KR, MR: paper advertisement on unis?
+        * FK to send JB slides for onboarding days
     * actions re conferences
-        * action FK: contact Kishan about ODSC london
-            * sent PM, no reply - track
-        * action FK: reach out to simon for potential attendance pydata prague
+        * action FK: reach out to Michal Chromcak for potential attendance pydata prague
+        * action FK: track speaker registration for ODSC, ensure MR is added as speaker
+        * action all: think about topics for Prague (Aug submission), Amsterdam (early June submission)
+            * check name, reach out
+    * actions re governance:
+        * action JB: explore and possibly set up anonymous voting, checking out "easypoll.bot" for next time and report
+        * action all, JS: Collect questions for lawyer in writing in existing thread, 24h time window, JS will send email 
+        * action FK: put proposed consensus vision statement it in the decision channel 
 
-4. scheduling
-    * reminder - conference planning scheduled May 15 at 3pm UTC
+4. decisions
+    * FK - notification of fast track decision made - Benedikt Heidrich appointed council observer
 
-7. proposed decisions
-    * proposal by FK: fast-track and urgent decision making
-        * was open for review until 06-05
-        * now 2nd round, decision
-    * proposal by FK: fund Sagar round trip to pydata London
-        * was open for review until 06-05
-        * now 2nd round, decision
+5. scheduling
+    * reminder - conference planning scheduled May 22 at 3pm UTC
+    * reminder - internship shortlisting reconciliation panel at 4pm UTC, May 25
 
-5. update - internship planning
-    * need panelists - JB, MR, JS?
-    * advertising update
+6. FK, KR update - summer programme
 
-6. update - conference planning
+7. FK, MR, SM update - conference planning
     * pydata London - in preparation
         * FK, SM
     * OSDC London - in preparation
         * FK, MR
-        * blog post seems blocked? what to do
     * pydata Prague
     * pydata Amsterdam
+    * EuroPython
 
 8. governance working group
-    * vision statement
-    * reserved - short term strategy
+    * update
+    * vision statement - now for decision (from May 20, until May 27)
+    * problem/challenge: voting technology
+        * someone should look into this
+        * slack anon voting no longer free (100 votes limit)
 
 9. benchmarking/prophet next steps
 
-10. AOB
+10. technical roadmap
+
+11. AOB
