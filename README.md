@@ -1,6 +1,6 @@
 # Welcome to sktime 
 
-[![!discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=chat&color=lightgreen)](https://discord.com/invite/gqSab2K) [![!gitter](https://img.shields.io/static/v1?logo=gitter&label=gitter&message=chat&color=lightgreen)](https://gitter.im/sktime/community) [![!twitter](https://img.shields.io/twitter/follow/sktime_toolbox?label=%20Twitter&style=social)](https://twitter.com/sktime_toolbox)
+[![!discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=chat&color=lightgreen)](https://discord.com/invite/54ACzaFsn7) [![!slack](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=news&color=lightblue)](https://www.linkedin.com/company/scikit-time/)
 
 This is the repository for sktime's community organisation. 
 You can find the source code repository [here](https://github.com/alan-turing-institute/sktime).
@@ -18,12 +18,12 @@ There are many ways to join the sktime community.
 | :money_with_wings: **[Donate]** | Fund sktime maintenance and development. |
 | :classical_building: **[Governance]** | How and by whom decisions are made in sktime's community.   |
 
-[contribute]: https://github.com/alan-turing-institute/sktime/blob/main/CONTRIBUTING.md
+[contribute]: https://github.com/sktime/sktime/blob/main/CONTRIBUTING.md
 [donate]: https://opencollective.com/sktime
-[contributors]: https://github.com/alan-turing-institute/sktime/blob/main/CONTRIBUTORS.md
-[governance]: https://www.sktime.org/en/latest/governance.html
+[contributors]: https://github.com/sktime/sktime/blob/main/CONTRIBUTORS.md
+[governance]: https://www.sktime.net/en/latest/governance.html
 [mentoring]: https://github.com/sktime/mentoring
-[meetups]: https://calendar.google.com/calendar/embed?src=sktime.toolbox%40gmail.com&ctz=UTC
+[meetups]: https://discord.com/invite/54ACzaFsn7
 
 ## Community council
 
