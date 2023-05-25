@@ -3,7 +3,7 @@
 [![!discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=chat&color=lightgreen)](c) [![!slack](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=news&color=lightblue)](https://www.linkedin.com/company/scikit-time/)
 
 This is the repository for sktime's community organisation. 
-You can find the source code repository [here](https://github.com/alan-turing-institute/sktime).
+You can find the source code repository [here](https://github.com/sktime/sktime).
 
 ## How to get involved
 
@@ -33,7 +33,7 @@ We hold regular online meetings that the full community is welcome to attend.
 * If you want to add an agenda item to the meeting, [update](https://github.com/sktime/community-org/blob/main/community_council/AGENDA.md) the agenda (this will create a PR) and make sure you attend the meeting.
 * All meetings are logged and available in the [previous_meetings](https://github.com/sktime/community-org/blob/main/community_council/previous_meetings) folder.
 
-To find out more about the work of the community council (CC), please read our [governance document](https://www.sktime.org/en/latest/governance.html).
+To find out more about the work of the community council (CC), please read our [governance document](https://www.sktime.net/en/latest/governance.html).
 
 ## Contact
 * You can chat to us on [Discord]([https://discord.com/invite/gqSab2K](https://discord.com/invite/54ACzaFsn7)). 
