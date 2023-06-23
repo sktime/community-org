@@ -1,9 +1,10 @@
-# sktime community meeting notes 2023-06-16
+
+# sktime community meeting notes 2023-06-23
 
 **Date:** 
-16/06/2023, 4:00pm UTC
+23/06/2023, 4:00pm UTC
 
-**Attendees:** 
+**Attendees:**
 
 **Minuting:**
 
@@ -18,70 +19,101 @@ Moderator:
 1. Review of agenda points
 
 2. Review of minutes
-   * 2023-06-09 - https://github.com/sktime/community-org/blob/main/community_council/previous_meetings/20230609-meeting.md
+   * 2023-06-16 - https://github.com/sktime/community-org/blob/main/community_council/previous_meetings/20230616-meeting.md
 
 3. Review of outstanding actions
     * action FK: update doc on gov & decision making to include new discord channels
         * not done, track
     * actions re conferences
-        * action all: think about topics for Prague (Aug submission), Amsterdam (early June submission)
-            * options posted, to discuss priorities (thread)
-        * action MR - pydata Sweden, check process, requirements, topic
-            * track
-        * action MR - check databricks "ai summit", in US, keep on radar?
-            * long time frame, reopen when relevant again
+        * pydata Prague (Aug submission)
+            * deadline June 23
+            * topics
+        * pydata Amsterdam (early June submission)
+            * all submitted
+            * for review: in sktime gmail
+
+        * action MR - pycon Sweden, check process, requirements, topic
+            * still todo, track
+
+        * europython & community sprint
+            * action FK: find out about need for ticket to attend if only attending sprint (not conf)
+                * sprints are free to attend!
+                * https://ep2023.europython.eu/sprints
+            * action FK: put attendance into the public actions channel
+                * sub-decisions on event in decisions channel
 
     * actions re governance:
         * action JB: explore and possibly set up anonymous voting, checking out "easypoll.bot" for next time and report
+            * dummy vote
+            * check reporting results (how)
+
         * action JS - open issue on voting technology to collect options https://github.com/sktime/community-org/issues/55
                 * issues opened
                 * track until decision
         * action JS - draft statutes
-            * action JB: set up mock vote for testing
-        * KR - reserved action, track
-            * not done, track
+            * 1st draft finished
+            * meeting with FK, shared with MR
+            * open questions to be shared today
+        * KR - reserved actions, track
+            * ongoing, track
+
+        * action MR - draft and put up for discussion treasurer/budgeting proposal (see June 9 for high-level summary)
+            * ongoing, track
+
     * action FK - user registration, voter registration message
         * opened PR for call to action on landing page for user registration
+
         * draft sth on linkedin, suggestion - together with publicizing vision
-            * not done, track
+            * draft shared in private channel
 
-        * ongoing, track
-    * action FK - contact agreed mentors for summer internships
-    * action MR - draft and put up for discussion treasurer/budgeting proposal
-
-
+    
 4. scheduling
     * EuroPython
+        * prep - who/when
+    * governance - statutes, elections
 
-
-5. summer internships
-    * FK - update
+5. FK - proposed expenditure - GitHub LFS
+    * timelines
+        * reading June 23-30 CoB
+        * decision June 30 - July 7 CoB
+    * expenditure: 60 USD yearly for 1 tier
+        * 50 GB file size, 50 GB monthly bandwidth
+        * from sktime open collective
+    * context: data repositories have become unreliable
+        * occasional changes, no deprecation message
+        * impacts users as it suddenly breaks loaders
+    * potential technical solutions:
+        * option A: fallback - from mirror only if primary source fails
+        * option B: buffer - always from mirror, keep mirror update
+        * both solutions require our own file hosting
+    * GitHub LFS - GitHub based file hosting of large files
+        * in line with "open" spirit - anyone can clone and mirror!
+        * primary repositories are not easy to replicate
+    * affected data repos are ca 10 GB
+        * up to 1GB is free on GitHub LFS
+    * alternatives: any file hoster (cost usually starts between 1-5 GB size)
 
 
 7. conferences - update
-    * ODSC Europe 2023
-        * MR, FK - debrief
+
     * EuroPython - speaker opportunity
         * track speakers
-    * EuroPython - community sprint, dev days
-        * sprint approved
-        * FK: virtual track?
-        * use as dev days?
+        * track attendance
+        * Europython is 17-21 July
+    * FK - europython sprint, community sprint
+        * reminder of attendance
+        * linkedin post
 
-        * see above, kick-off is now most important
-    * planning, mentors
-        * FK will contact mentors to set up regular schedule
+8. governance working group
 
-8. Ugo - community outreach
-
-    * discussion of proposal
-        * see internal voting thread
-        * 3 and 5 still open
-    * outreach plan?
-
-9. governance working group
     * JS - statutes (track)
     * FK - voting/election design
     * JB - easypoll for voting
+
+9. UO - community outreach
+
+    * UO - updates
+        * linkedin posts
+        * blog medium
 
 10. AOB
