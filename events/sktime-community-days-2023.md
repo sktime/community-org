@@ -11,7 +11,7 @@ The event will take place both in-person and virtual:
 
 This event provides entry level introductions, tutorials, onboarding, and opportunities to socialize with new and veteran community members.
 
-The event will also be used to plan the developmet and community roadmap 2023-2024.
+The event will also be used to plan the development and community roadmap 2023-2024.
 
 ### Code of conduct
 
