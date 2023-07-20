@@ -34,18 +34,20 @@ The sktime sprint is in room RB 104, together with the pytorch sprint
 ## Agenda
 |Day | Time (UTC) | Description|
 |---|---|---|
-| Sat | 7:00 | venue opens, developers are present |
+| Sat | 7:30 | venue opens, developers are present |
 | Sat | 8:00 | in-person welcome, individual set-up or introductions |
 | Sat | 10:05 - 10:15 | virtual welcome, core hours start |
 | Sat | 11:15 - 12:00 | open source contributing tutorial: git/GitHub, IDE, code quality, docs, testing, debugging |
 | Sat | 12:05 - 13:00 | Workshop: ensuring complete developer set-up, collab session |
 | Sat | 13:05 - 14:00 | breakout session - sktime roadmap 2023-2024 |
-| Sat | 14:00 onwards | collab session, further async work, in-person evening programme |
-
+| Sat | 14:00 - 15:00 | collab session, further async work |
+| Sat | 15:00 | venue closes, evening social |
 
 |Day | Time (UTC) | Description|
 |---|---|---|
-| Sun | 7:00 | venue opens, developers are present |
+| Sun | 7:30 | venue opens, developers are present |
 | Sun | 8:00 | in-person welcome, work streams and individual mini-projects |
 | Sun | 10:05 - 10:15 | virtual welcome, core hours start |
 | Sun | 10:15 onwards | collab session |
+| Sun | 15:00 | venue closes |
+
