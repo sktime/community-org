@@ -13,6 +13,13 @@ This event provides entry level introductions, tutorials, onboarding, and opport
 
 The event will also be used to plan the developmet and community roadmap 2023-2024.
 
+### Code of conduct
+
+The event is subject to both:
+
+* the [sktime code of conduct](https://www.sktime.net/en/latest/get_involved/code_of_conduct.html)
+* the [EuroPython 2023 code of conduct](https://www.europython-society.org/coc/)
+
 ### Registration and venue - in-person
 
 The in-person event is registered as one of the sprints at EuroPython 2023.
