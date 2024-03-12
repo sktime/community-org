@@ -2,7 +2,7 @@
 # sktime community meeting agenda 2023-10-17
 
 **Date:** 
-17/10/2023, 4:00pm UTC
+12/03/2024, 5:00pm UTC
 
 **Attendees:**
 
@@ -10,52 +10,54 @@
 
 Moderator:
 
-[dev meet-up channel](https://discord.com/channels/723500657255907408/875422707523682335)
+[sktime discord - community council channel](https://discord.com/channels/1075852648688930887/1075852649590706239)
 
-[link to minutes on hackmd](https://hackmd.io/LUsu_aLHSDWPg9ofJ3urzg)
+[link to agenda and minutes on hackmd](https://hackmd.io/6mhRYLMQRHC6Z7I2NYR_2A)
 
 ## Agenda
 
 1. Review of agenda
 
 2. Review of minutes
+* minutes from Feb 28 5pm meeting continuation missing?
 
 3. Review of actions
 
-    * delayed publication draft
-        * https://github.com/sktime/community-org/issues/56
-        * action KR: put this up for voting, write final form
+Tracking
 
+* action FK re legal review prepare contact draft and share internally (also end of this week)
+    * FK: suggests pausing for now - track
+* action KR: send email to distance university, check if sktime session are feasible - track for next time
+    * contact initiated, next steps follow - track
+* action Jana - open vote on automatic approval of minutes in decision channel
 
-    * action JB - create github issue with Treasurer nomination, post link on Discord server
-        * done
+* action FK - meet-up slot poll (re time zone)
+    * done, current slot got most votes, so nothing changes
+* reserved action
 
-    * Action UO: reach out to content creators to update code to recent main
-        * Alexandra Amidon
-            * answer received
-        * Joanna Lenczuk
-        * FK proposed to bring in to repo to test continuously
-            * suggested action UO: PR to repo once notebook is done
-            * action FK after that: review & integrate to CI
+4. FK - update on GSoC
 
-    * async discussion on election provisions - time boxed close out
-        * shared via hackmd in private discord
-        * https://discord.com/channels/1075852648688930887/1084417014166212618/1144418618973638678
-            * discord message link in private channel (accessible only to council)
+    * large contributor influx
+        * +200 on discord in 1 month
+        * increased PR review load
+    * short-term events (meet-up schedule, intro to contrib)
+    * planning selection process
 
-    * action FK re legal review prepare contact draft and share internally (also end of this week)
+5. reserved items
 
-   
-4. treasurer nominations and next steps
-    * 1 nomination received
-    * vote started
+6. financial document drafts by UO - next steps
+    * budget sheet template
+    * management report template
 
-5. conference planning update
-    * pydata NY
-    * pydata global
-    * any other
+7. events schedule
 
-6. close-out discussion election provisions
+    * meet-ups - more pre-planning agendas, presentations?
+        * some volunteers from events poll
+    * summer developer sprint planning
+
+8. update from elections working group meeting
+
+9. AOB
 
 7. FK - FYI - hacktoberfest
 
