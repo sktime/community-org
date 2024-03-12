@@ -58,7 +58,3 @@ Tracking
 8. update from elections working group meeting
 
 9. AOB
-
-7. FK - FYI - hacktoberfest
-
-8. AOB
