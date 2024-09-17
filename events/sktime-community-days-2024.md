@@ -93,7 +93,7 @@ There are two deadlines:
 
 ### Terms
 
-1. Legal Waiver: Applicants waive any and all rights to bring any legal claims, actions, or proceedings of any kind against the sktime project or thePython Software Foundation, its affiliates, officers, employees, or agents, in connection with any aspect of the grant application process, the awarding or non-awarding of the grant, and the administration of the grant.
+1. Legal Waiver: Applicants waive any and all rights to bring any legal claims, actions, or proceedings of any kind against the sktime project or the Python Software Foundation, its affiliates, officers, employees, or agents, in connection with any aspect of the grant application process, the awarding or non-awarding of the grant, and the administration of the grant.
 
 2. Publication of Data: For transparency and accountability purposes, full names of successful applicants (recipients of a travel grant), and the total sum reimbursed, will be included in permanent public records, such as published financial statements or tables of grant recipients. By applying, applicants consent to the permanent publication of this data. 
 
