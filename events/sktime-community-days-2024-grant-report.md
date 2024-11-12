@@ -28,3 +28,8 @@ Columns are:
 | Vieira      | Felipe Angelim     | 1,800     | 800       |                       830      | no        |
 
 Note: total sum of commitments exceeds the grant sum, as commitments were made after higher listed applicants withdrew due to visa timelines.
+
+
+### future spending
+
+The remaining funds are earmarked to fund travel to the 2025 community days under the same conditions, for which timelines are much more generous.
