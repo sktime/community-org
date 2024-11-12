@@ -14,7 +14,7 @@ Columns are:
 * last name of applicant
 * first name of applicant
 * total sum requested
-* total sum committed, sums are plus contingent coverage
+* total sum committed, commitments supplementable by contingent coverage
 * total disbursed
 * whether the commitment was withdrawn, and if yes by which side
 
