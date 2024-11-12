@@ -108,6 +108,9 @@ There are two deadlines:
 
 Opportunity benefits and opportunity value are compared against virtual attendance.
 
+### Beneficiaries
+
+A transparency statement with beneficiaries of the grant is [available here](https://github.com/sktime/community-org/blob/main/events/sktime-community-days-2024-grant-report.md).
 
 ## Agenda
 
